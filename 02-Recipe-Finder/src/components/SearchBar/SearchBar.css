@@ -8,7 +8,6 @@
     padding:10px 14px;
     flex: 1;
     transition: border-color 0.2s ease, box-shadow 0.2s ease;
-
 }
 
 .search-bar:focus-within{
