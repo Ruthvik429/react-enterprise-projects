@@ -176,7 +176,8 @@ Filtered Recipes
 ### Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone  https://github.com/Ruthvik429/react-enterprise-projects.git
+
 cd recipe-finder
 ```
 
