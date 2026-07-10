@@ -1,0 +1,75 @@
+.custom-navbar{
+    background-color: #fff;
+    padding: $spacer-sm 0;
+
+    &__brand{
+        font-size: 1.5rem;
+        font-weight:700;
+        color: $primary !important;
+    }
+
+    &__toggle{
+        color:$dark;
+    }
+    &__links{
+        display: flex;
+        gap: $spacer-lg;
+        margin-left: $spacer-lg;
+
+
+        @media(max-width: 991px){
+            display: none;
+            flex-direction: column;
+            width: 100%;
+            margin-top: $spacer-md;
+
+            &--open{
+                display:flex;
+            }
+        }
+    }
+    &__link{
+        color:$dark;
+        font-weight: 500;
+        transition: color $transition-base;
+
+        &:hover{
+            color:$primary;
+        }
+    }
+    &__actions{
+        display: flex;
+        align-items: center;
+        gap: $spacer-md;
+        margin-left:auto;    
+
+    }
+
+    &__icon-btn{
+        @include flex-center;
+        position: relative;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        color: $dark;
+        transition: background-color $transition-base;
+        
+        &:hover{
+            background-color: $light;
+        }
+    }
+
+    &__cart-badge{
+        position: absolute;
+        top: -4px;
+        right: -4px;
+        background-color: $color-sale-badge;
+        color: #fff;
+        font-size: 0.7rem;
+        font-weight:700;
+        min-width: 18px;
+        height: 18px;
+        border-radius: 50%;
+        @include flex-center;
+    }
+}

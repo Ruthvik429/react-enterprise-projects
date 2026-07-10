@@ -1,0 +1,8 @@
+@import './abstracts/variables';
+@import './abstracts/mixins';
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+
+@import './base/reset';
+@import './base/typography';
+
+@import '../components/layout/navbar';

@@ -1,0 +1,5210 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics",
+      "slug": "electronics",
+      "description": "Phones, laptops, audio and smart devices",
+      "icon": "Cpu",
+      "image": "https://picsum.photos/seed/electronics/400/300",
+      "productCount": 10
+    },
+    {
+      "id": 2,
+      "name": "Fashion",
+      "slug": "fashion",
+      "description": "Clothing, footwear and accessories",
+      "icon": "Shirt",
+      "image": "https://picsum.photos/seed/fashion/400/300",
+      "productCount": 9
+    },
+    {
+      "id": 3,
+      "name": "Home & Kitchen",
+      "slug": "home-kitchen",
+      "description": "Furniture, decor and kitchen essentials",
+      "icon": "Home",
+      "image": "https://picsum.photos/seed/home/400/300",
+      "productCount": 8
+    },
+    {
+      "id": 4,
+      "name": "Sports & Fitness",
+      "slug": "sports-fitness",
+      "description": "Gear and equipment for an active lifestyle",
+      "icon": "Dumbbell",
+      "image": "https://picsum.photos/seed/sports/400/300",
+      "productCount": 7
+    },
+    {
+      "id": 5,
+      "name": "Books",
+      "slug": "books",
+      "description": "Fiction, non-fiction and educational titles",
+      "icon": "BookOpen",
+      "image": "https://picsum.photos/seed/books/400/300",
+      "productCount": 7
+    },
+    {
+      "id": 6,
+      "name": "Toys & Games",
+      "slug": "toys-games",
+      "description": "Toys, board games, and puzzles for all ages",
+      "icon": "Puzzle",
+      "image": "https://picsum.photos/seed/toys/400/300",
+      "productCount": 5
+    },
+    {
+      "id": 7,
+      "name": "Beauty & Personal Care",
+      "slug": "beauty-personal-care",
+      "description": "Skincare, haircare, and grooming essentials",
+      "icon": "Sparkles",
+      "image": "https://picsum.photos/seed/beauty/400/300",
+      "productCount": 5
+    },
+    {
+      "id": 8,
+      "name": "Pet Supplies",
+      "slug": "pet-supplies",
+      "description": "Food, toys, and accessories for your pets",
+      "icon": "PawPrint",
+      "image": "https://picsum.photos/seed/pets/400/300",
+      "productCount": 5
+    },
+    {
+      "id": 9,
+      "name": "Automotive",
+      "slug": "automotive",
+      "description": "Car accessories, tools, and maintenance products",
+      "icon": "Car",
+      "image": "https://picsum.photos/seed/auto/400/300",
+      "productCount": 5
+    },
+    {
+      "id": 10,
+      "name": "Office & Stationery",
+      "slug": "office-stationery",
+      "description": "Supplies and equipment for home and office work",
+      "icon": "Briefcase",
+      "image": "https://picsum.photos/seed/office/400/300",
+      "productCount": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "AeroSound Wireless Headphones",
+      "slug": "aerosound-wireless-headphones",
+      "brand": "AeroSound",
+      "categoryId": 1,
+      "price": 89.99,
+      "originalPrice": 129.99,
+      "discountPercent": 31,
+      "currency": "USD",
+      "sku": "ELEC-HP-1001",
+      "stock": 42,
+      "shortDescription": "Over-ear wireless headphones with active noise cancellation",
+      "description": "Experience immersive sound with 40mm drivers, active noise cancellation, and 30-hour battery life. Foldable design with a premium carrying case included.",
+      "thumbnail": "https://picsum.photos/seed/headphones1/500/500",
+      "images": [
+        "https://picsum.photos/seed/headphones1/500/500",
+        "https://picsum.photos/seed/headphones1b/500/500",
+        "https://picsum.photos/seed/headphones1c/500/500"
+      ],
+      "colors": [
+        "Black",
+        "Silver",
+        "Navy"
+      ],
+      "sizes": [],
+      "material": "Aluminum, Memory Foam",
+      "weightGrams": 250,
+      "dimensions": {
+        "length": 18,
+        "width": 16,
+        "height": 8,
+        "unit": "cm"
+      },
+      "warrantyMonths": 12,
+      "returnPolicyDays": 30,
+      "freeShipping": true,
+      "isFeatured": true,
+      "isNew": false,
+      "isOnSale": true,
+      "rating": 4.1,
+      "reviewCount": 4,
+      "reviewIds": [
+        1,
+        2,
+        3,
+        70
+      ],
+      "tags": [
+        "audio",
+        "wireless",
+        "noise-cancelling"
+      ],
+      "createdAt": "2025-11-02T09:15:00Z",
+      "updatedAt": "2026-05-10T14:20:00Z"
+    },
+    {
+      "id": 2,
+      "name": "NovaBook Pro 14 Laptop",
+      "slug": "novabook-pro-14-laptop",
+      "brand": "NovaTech",
+      "categoryId": 1,
+      "price": 1099.0,
+      "originalPrice": 1099.0,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "ELEC-LP-1002",
+      "stock": 15,
+      "shortDescription": "14-inch ultrabook with 16GB RAM and 512GB SSD",
+      "description": "A lightweight, high-performance ultrabook built for professionals. Features a 14-inch QHD display, all-day battery, and a backlit keyboard.",
+      "thumbnail": "https://picsum.photos/seed/laptop2/500/500",
+      "images": [
+        "https://picsum.photos/seed/laptop2/500/500",
+        "https://picsum.photos/seed/laptop2b/500/500"
+      ],
+      "colors": [
+        "Space Gray"
+      ],
+      "sizes": [],
+      "material": "Aluminum Unibody",
+      "weightGrams": 1300,
+      "dimensions": {
+        "length": 31,
+        "width": 22,
+        "height": 1.5,
+        "unit": "cm"
+      },
+      "warrantyMonths": 24,
+      "returnPolicyDays": 15,
+      "freeShipping": true,
+      "isFeatured": true,
+      "isNew": true,
+      "isOnSale": false,
+      "rating": 4.8,
+      "reviewCount": 2,
+      "reviewIds": [
+        4,
+        5
+      ],
+      "tags": [
+        "laptop",
+        "ultrabook",
+        "productivity"
+      ],
+      "createdAt": "2026-04-18T11:00:00Z",
+      "updatedAt": "2026-06-01T10:00:00Z"
+    },
+    {
+      "id": 3,
+      "name": "PulseFit Smartwatch Series 3",
+      "slug": "pulsefit-smartwatch-series-3",
+      "brand": "PulseFit",
+      "categoryId": 1,
+      "price": 149.5,
+      "originalPrice": 199.0,
+      "discountPercent": 25,
+      "currency": "USD",
+      "sku": "ELEC-SW-1003",
+      "stock": 60,
+      "shortDescription": "Fitness tracking smartwatch with heart-rate and SpO2 monitoring",
+      "description": "Track workouts, sleep, heart rate, and blood oxygen levels. 7-day battery life with a vibrant AMOLED display and 50m water resistance.",
+      "thumbnail": "https://picsum.photos/seed/watch3/500/500",
+      "images": [
+        "https://picsum.photos/seed/watch3/500/500"
+      ],
+      "colors": [
+        "Black",
+        "Rose Gold"
+      ],
+      "sizes": [
+        "S/M",
+        "M/L"
+      ],
+      "material": "Polycarbonate, Silicone Strap",
+      "weightGrams": 45,
+      "dimensions": {
+        "length": 4.5,
+        "width": 3.8,
+        "height": 1.1,
+        "unit": "cm"
+      },
+      "warrantyMonths": 12,
+      "returnPolicyDays": 30,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": true,
+      "rating": 4.0,
+      "reviewCount": 2,
+      "reviewIds": [
+        6,
+        74
+      ],
+      "tags": [
+        "wearable",
+        "fitness",
+        "smartwatch"
+      ],
+      "createdAt": "2025-09-25T08:30:00Z",
+      "updatedAt": "2026-03-14T09:45:00Z"
+    },
+    {
+      "id": 4,
+      "name": "ClearView 27\" 4K Monitor",
+      "slug": "clearview-27-4k-monitor",
+      "brand": "ClearView",
+      "categoryId": 1,
+      "price": 329.0,
+      "originalPrice": 399.0,
+      "discountPercent": 18,
+      "currency": "USD",
+      "sku": "ELEC-MN-1004",
+      "stock": 22,
+      "shortDescription": "27-inch 4K UHD IPS monitor with HDR10 support",
+      "description": "Crisp 4K resolution with 99% sRGB color accuracy, ideal for designers and developers. Includes adjustable stand and dual HDMI/DisplayPort inputs.",
+      "thumbnail": "https://picsum.photos/seed/monitor4/500/500",
+      "images": [
+        "https://picsum.photos/seed/monitor4/500/500"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "sizes": [],
+      "material": "Plastic, Metal Stand",
+      "weightGrams": 5200,
+      "dimensions": {
+        "length": 61,
+        "width": 20,
+        "height": 45,
+        "unit": "cm"
+      },
+      "warrantyMonths": 36,
+      "returnPolicyDays": 30,
+      "freeShipping": false,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": true,
+      "rating": 4.0,
+      "reviewCount": 4,
+      "reviewIds": [
+        17,
+        27,
+        69,
+        105
+      ],
+      "tags": [
+        "monitor",
+        "4k",
+        "productivity"
+      ],
+      "createdAt": "2025-12-01T13:00:00Z",
+      "updatedAt": "2026-02-20T16:10:00Z"
+    },
+    {
+      "id": 5,
+      "name": "SnapShot X200 Mirrorless Camera",
+      "slug": "snapshot-x200-mirrorless-camera",
+      "brand": "SnapShot",
+      "categoryId": 1,
+      "price": 749.0,
+      "originalPrice": 899.0,
+      "discountPercent": 17,
+      "currency": "USD",
+      "sku": "ELEC-CM-1005",
+      "stock": 8,
+      "shortDescription": "24MP mirrorless camera with 4K video recording",
+      "description": "Capture stunning stills and 4K video with a APS-C sensor, in-body stabilization, and a compact, travel-friendly body.",
+      "thumbnail": "https://picsum.photos/seed/camera5/500/500",
+      "images": [
+        "https://picsum.photos/seed/camera5/500/500"
+      ],
+      "colors": [
+        "Black",
+        "Graphite"
+      ],
+      "sizes": [],
+      "material": "Magnesium Alloy",
+      "weightGrams": 450,
+      "dimensions": {
+        "length": 12,
+        "width": 7,
+        "height": 6,
+        "unit": "cm"
+      },
+      "warrantyMonths": 24,
+      "returnPolicyDays": 30,
+      "freeShipping": true,
+      "isFeatured": true,
+      "isNew": true,
+      "isOnSale": true,
+      "rating": 5.0,
+      "reviewCount": 1,
+      "reviewIds": [
+        7
+      ],
+      "tags": [
+        "camera",
+        "mirrorless",
+        "photography"
+      ],
+      "createdAt": "2026-05-30T10:00:00Z",
+      "updatedAt": "2026-06-15T12:00:00Z"
+    },
+    {
+      "id": 6,
+      "name": "Urban Trail Running Jacket",
+      "slug": "urban-trail-running-jacket",
+      "brand": "Urban Trail",
+      "categoryId": 2,
+      "price": 59.99,
+      "originalPrice": 79.99,
+      "discountPercent": 25,
+      "currency": "USD",
+      "sku": "FASH-JK-2001",
+      "stock": 75,
+      "shortDescription": "Lightweight windproof running jacket",
+      "description": "Breathable, water-resistant fabric with reflective detailing for low-light visibility. Packs into its own pocket for easy carrying.",
+      "thumbnail": "https://picsum.photos/seed/jacket6/500/500",
+      "images": [
+        "https://picsum.photos/seed/jacket6/500/500"
+      ],
+      "colors": [
+        "Black",
+        "Electric Blue",
+        "Coral"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Recycled Polyester",
+      "weightGrams": 180,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 0,
+      "returnPolicyDays": 45,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": true,
+      "rating": 4.2,
+      "reviewCount": 3,
+      "reviewIds": [
+        8,
+        9,
+        84
+      ],
+      "tags": [
+        "jacket",
+        "running",
+        "outdoor"
+      ],
+      "createdAt": "2025-10-12T07:45:00Z",
+      "updatedAt": "2026-01-05T09:00:00Z"
+    },
+    {
+      "id": 7,
+      "name": "Everyday Comfort Sneakers",
+      "slug": "everyday-comfort-sneakers",
+      "brand": "StrideCo",
+      "categoryId": 2,
+      "price": 64.0,
+      "originalPrice": 64.0,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "FASH-SN-2002",
+      "stock": 120,
+      "shortDescription": "Cushioned everyday sneakers with breathable mesh upper",
+      "description": "Designed for all-day comfort with memory foam insoles and a durable rubber outsole. Machine washable mesh upper.",
+      "thumbnail": "https://picsum.photos/seed/sneaker7/500/500",
+      "images": [
+        "https://picsum.photos/seed/sneaker7/500/500"
+      ],
+      "colors": [
+        "White",
+        "Grey",
+        "Black"
+      ],
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "material": "Mesh, Rubber",
+      "weightGrams": 320,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 0,
+      "returnPolicyDays": 30,
+      "freeShipping": true,
+      "isFeatured": true,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 3.8,
+      "reviewCount": 3,
+      "reviewIds": [
+        10,
+        31,
+        58
+      ],
+      "tags": [
+        "sneakers",
+        "footwear",
+        "casual"
+      ],
+      "createdAt": "2025-08-20T10:20:00Z",
+      "updatedAt": "2025-12-30T11:00:00Z"
+    },
+    {
+      "id": 8,
+      "name": "Heritage Leather Wallet",
+      "slug": "heritage-leather-wallet",
+      "brand": "Heritage Goods",
+      "categoryId": 2,
+      "price": 39.0,
+      "originalPrice": 49.0,
+      "discountPercent": 20,
+      "currency": "USD",
+      "sku": "FASH-WL-2003",
+      "stock": 90,
+      "shortDescription": "Full-grain leather bifold wallet with RFID protection",
+      "description": "Handcrafted from full-grain leather that develops a natural patina over time. Includes RFID-blocking lining for card security.",
+      "thumbnail": "https://picsum.photos/seed/wallet8/500/500",
+      "images": [
+        "https://picsum.photos/seed/wallet8/500/500"
+      ],
+      "colors": [
+        "Brown",
+        "Black"
+      ],
+      "sizes": [],
+      "material": "Full-Grain Leather",
+      "weightGrams": 90,
+      "dimensions": {
+        "length": 11,
+        "width": 9,
+        "height": 1,
+        "unit": "cm"
+      },
+      "warrantyMonths": 6,
+      "returnPolicyDays": 30,
+      "freeShipping": false,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": true,
+      "rating": 4.6,
+      "reviewCount": 0,
+      "reviewIds": [],
+      "tags": [
+        "wallet",
+        "leather",
+        "accessories"
+      ],
+      "createdAt": "2025-07-14T09:00:00Z",
+      "updatedAt": "2025-11-01T13:30:00Z"
+    },
+    {
+      "id": 9,
+      "name": "ClassicFit Denim Jacket",
+      "slug": "classicfit-denim-jacket",
+      "brand": "Urban Trail",
+      "categoryId": 2,
+      "price": 54.0,
+      "originalPrice": 54.0,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "FASH-DJ-2004",
+      "stock": 55,
+      "shortDescription": "Timeless denim jacket with a relaxed fit",
+      "description": "A wardrobe staple crafted from mid-weight cotton denim, featuring button cuffs and classic chest pockets.",
+      "thumbnail": "https://picsum.photos/seed/denim9/500/500",
+      "images": [
+        "https://picsum.photos/seed/denim9/500/500"
+      ],
+      "colors": [
+        "Light Wash",
+        "Dark Wash"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "100% Cotton Denim",
+      "weightGrams": 600,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 0,
+      "returnPolicyDays": 45,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": true,
+      "isOnSale": false,
+      "rating": 5.0,
+      "reviewCount": 1,
+      "reviewIds": [
+        41
+      ],
+      "tags": [
+        "jacket",
+        "denim",
+        "casual"
+      ],
+      "createdAt": "2026-06-02T10:00:00Z",
+      "updatedAt": "2026-06-20T10:00:00Z"
+    },
+    {
+      "id": 10,
+      "name": "CozyNest Memory Foam Pillow",
+      "slug": "cozynest-memory-foam-pillow",
+      "brand": "CozyNest",
+      "categoryId": 3,
+      "price": 34.99,
+      "originalPrice": 44.99,
+      "discountPercent": 22,
+      "currency": "USD",
+      "sku": "HOME-PL-3001",
+      "stock": 150,
+      "shortDescription": "Contoured memory foam pillow for neck support",
+      "description": "Ergonomically designed to relieve neck and shoulder tension, with a breathable, removable, washable cover.",
+      "thumbnail": "https://picsum.photos/seed/pillow10/500/500",
+      "images": [
+        "https://picsum.photos/seed/pillow10/500/500"
+      ],
+      "colors": [
+        "White"
+      ],
+      "sizes": [
+        "Standard"
+      ],
+      "material": "Memory Foam, Bamboo Cover",
+      "weightGrams": 900,
+      "dimensions": {
+        "length": 60,
+        "width": 40,
+        "height": 12,
+        "unit": "cm"
+      },
+      "warrantyMonths": 12,
+      "returnPolicyDays": 30,
+      "freeShipping": true,
+      "isFeatured": true,
+      "isNew": false,
+      "isOnSale": true,
+      "rating": 5.0,
+      "reviewCount": 1,
+      "reviewIds": [
+        11
+      ],
+      "tags": [
+        "pillow",
+        "bedroom",
+        "comfort"
+      ],
+      "createdAt": "2025-09-01T08:00:00Z",
+      "updatedAt": "2026-01-18T14:00:00Z"
+    },
+    {
+      "id": 11,
+      "name": "BrewMaster Pour-Over Coffee Set",
+      "slug": "brewmaster-pour-over-coffee-set",
+      "brand": "BrewMaster",
+      "categoryId": 3,
+      "price": 42.0,
+      "originalPrice": 42.0,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "HOME-CF-3002",
+      "stock": 38,
+      "shortDescription": "Glass pour-over coffee dripper with wooden collar",
+      "description": "Brew caf\u00e9-quality coffee at home with this borosilicate glass dripper, reusable stainless steel filter, and matching carafe.",
+      "thumbnail": "https://picsum.photos/seed/coffee11/500/500",
+      "images": [
+        "https://picsum.photos/seed/coffee11/500/500"
+      ],
+      "colors": [
+        "Clear/Wood"
+      ],
+      "sizes": [
+        "600ml"
+      ],
+      "material": "Borosilicate Glass, Walnut Wood",
+      "weightGrams": 550,
+      "dimensions": {
+        "length": 14,
+        "width": 14,
+        "height": 18,
+        "unit": "cm"
+      },
+      "warrantyMonths": 12,
+      "returnPolicyDays": 30,
+      "freeShipping": false,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 4.8,
+      "reviewCount": 3,
+      "reviewIds": [
+        12,
+        33,
+        90
+      ],
+      "tags": [
+        "coffee",
+        "kitchen",
+        "brewing"
+      ],
+      "createdAt": "2025-10-30T09:15:00Z",
+      "updatedAt": "2025-12-11T10:00:00Z"
+    },
+    {
+      "id": 12,
+      "name": "LumaGlow Smart Desk Lamp",
+      "slug": "lumaglow-smart-desk-lamp",
+      "brand": "LumaGlow",
+      "categoryId": 3,
+      "price": 47.5,
+      "originalPrice": 59.99,
+      "discountPercent": 21,
+      "currency": "USD",
+      "sku": "HOME-LP-3003",
+      "stock": 64,
+      "shortDescription": "Touch-control LED desk lamp with adjustable color temperature",
+      "description": "Stepless dimming, 5 color temperature modes, and a USB charging port built into the base. Eye-care flicker-free lighting.",
+      "thumbnail": "https://picsum.photos/seed/lamp12/500/500",
+      "images": [
+        "https://picsum.photos/seed/lamp12/500/500"
+      ],
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "sizes": [],
+      "material": "Aluminum, ABS Plastic",
+      "weightGrams": 700,
+      "dimensions": {
+        "length": 15,
+        "width": 15,
+        "height": 45,
+        "unit": "cm"
+      },
+      "warrantyMonths": 18,
+      "returnPolicyDays": 30,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": true,
+      "isOnSale": true,
+      "rating": 4.4,
+      "reviewCount": 0,
+      "reviewIds": [],
+      "tags": [
+        "lamp",
+        "desk",
+        "smart-home"
+      ],
+      "createdAt": "2026-05-05T11:30:00Z",
+      "updatedAt": "2026-06-25T09:00:00Z"
+    },
+    {
+      "id": 13,
+      "name": "FlexCore Adjustable Dumbbell Set",
+      "slug": "flexcore-adjustable-dumbbell-set",
+      "brand": "FlexCore",
+      "categoryId": 4,
+      "price": 189.0,
+      "originalPrice": 229.0,
+      "discountPercent": 17,
+      "currency": "USD",
+      "sku": "SPRT-DB-4001",
+      "stock": 20,
+      "shortDescription": "Space-saving adjustable dumbbells, 5-25kg per hand",
+      "description": "Quickly adjust weight with a simple dial mechanism, replacing 10 pairs of traditional dumbbells. Compact tray included.",
+      "thumbnail": "https://picsum.photos/seed/dumbbell13/500/500",
+      "images": [
+        "https://picsum.photos/seed/dumbbell13/500/500"
+      ],
+      "colors": [
+        "Black/Red"
+      ],
+      "sizes": [
+        "5-25kg"
+      ],
+      "material": "Cast Iron, ABS Shell",
+      "weightGrams": 25000,
+      "dimensions": {
+        "length": 40,
+        "width": 20,
+        "height": 20,
+        "unit": "cm"
+      },
+      "warrantyMonths": 24,
+      "returnPolicyDays": 30,
+      "freeShipping": false,
+      "isFeatured": true,
+      "isNew": false,
+      "isOnSale": true,
+      "rating": 5.0,
+      "reviewCount": 1,
+      "reviewIds": [
+        13
+      ],
+      "tags": [
+        "fitness",
+        "strength",
+        "home-gym"
+      ],
+      "createdAt": "2025-11-20T08:00:00Z",
+      "updatedAt": "2026-02-10T12:00:00Z"
+    },
+    {
+      "id": 14,
+      "name": "TerraGrip Yoga Mat",
+      "slug": "terragrip-yoga-mat",
+      "brand": "TerraGrip",
+      "categoryId": 4,
+      "price": 28.0,
+      "originalPrice": 28.0,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "SPRT-YM-4002",
+      "stock": 200,
+      "shortDescription": "Non-slip eco-friendly yoga mat with carry strap",
+      "description": "Made from natural tree rubber with a moisture-wicking microfiber top layer. 5mm thickness for joint support.",
+      "thumbnail": "https://picsum.photos/seed/yogamat14/500/500",
+      "images": [
+        "https://picsum.photos/seed/yogamat14/500/500"
+      ],
+      "colors": [
+        "Sage Green",
+        "Charcoal",
+        "Plum"
+      ],
+      "sizes": [
+        "183x61cm"
+      ],
+      "material": "Natural Rubber, Microfiber",
+      "weightGrams": 2200,
+      "dimensions": {
+        "length": 183,
+        "width": 61,
+        "height": 0.5,
+        "unit": "cm"
+      },
+      "warrantyMonths": 0,
+      "returnPolicyDays": 30,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 4.6,
+      "reviewCount": 0,
+      "reviewIds": [],
+      "tags": [
+        "yoga",
+        "fitness",
+        "eco-friendly"
+      ],
+      "createdAt": "2025-08-05T07:00:00Z",
+      "updatedAt": "2025-10-15T10:00:00Z"
+    },
+    {
+      "id": 15,
+      "name": "The Silent Algorithm",
+      "slug": "the-silent-algorithm",
+      "brand": "Meridian Press",
+      "categoryId": 5,
+      "price": 16.99,
+      "originalPrice": 21.99,
+      "discountPercent": 23,
+      "currency": "USD",
+      "sku": "BOOK-FN-5001",
+      "stock": 300,
+      "shortDescription": "A techno-thriller about an AI that learns to keep secrets",
+      "description": "A gripping novel following a data scientist who uncovers a hidden pattern inside her company's flagship AI model \u2014 one it doesn't want found. Paperback, 412 pages.",
+      "thumbnail": "https://picsum.photos/seed/book15/500/500",
+      "images": [
+        "https://picsum.photos/seed/book15/500/500"
+      ],
+      "colors": [],
+      "sizes": [
+        "Paperback"
+      ],
+      "material": "Paper",
+      "weightGrams": 380,
+      "dimensions": {
+        "length": 21,
+        "width": 14,
+        "height": 3,
+        "unit": "cm"
+      },
+      "warrantyMonths": 0,
+      "returnPolicyDays": 14,
+      "freeShipping": true,
+      "isFeatured": true,
+      "isNew": true,
+      "isOnSale": true,
+      "rating": 5.0,
+      "reviewCount": 1,
+      "reviewIds": [
+        14
+      ],
+      "tags": [
+        "fiction",
+        "thriller",
+        "technology"
+      ],
+      "createdAt": "2026-06-10T09:00:00Z",
+      "updatedAt": "2026-07-01T11:00:00Z"
+    },
+    {
+      "id": 16,
+      "name": "Atomic Habits Field Guide",
+      "slug": "atomic-habits-field-guide",
+      "brand": "Northline Books",
+      "categoryId": 5,
+      "price": 14.5,
+      "originalPrice": 14.5,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "BOOK-NF-5002",
+      "stock": 180,
+      "shortDescription": "A practical companion workbook for building better habits",
+      "description": "Exercises, trackers, and reflection prompts designed to turn habit-formation theory into daily practice. Paperback, 220 pages.",
+      "thumbnail": "https://picsum.photos/seed/book16/500/500",
+      "images": [
+        "https://picsum.photos/seed/book16/500/500"
+      ],
+      "colors": [],
+      "sizes": [
+        "Paperback"
+      ],
+      "material": "Paper",
+      "weightGrams": 250,
+      "dimensions": {
+        "length": 20,
+        "width": 13,
+        "height": 2,
+        "unit": "cm"
+      },
+      "warrantyMonths": 0,
+      "returnPolicyDays": 14,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 4.3,
+      "reviewCount": 0,
+      "reviewIds": [],
+      "tags": [
+        "non-fiction",
+        "self-help",
+        "productivity"
+      ],
+      "createdAt": "2025-07-01T10:00:00Z",
+      "updatedAt": "2025-09-01T10:00:00Z"
+    },
+    {
+      "id": 17,
+      "name": "EchoPulse Bluetooth Speaker",
+      "slug": "echopulse-bluetooth-speaker-17",
+      "brand": "EchoPulse",
+      "categoryId": 1,
+      "price": 876.06,
+      "originalPrice": 1251.51,
+      "discountPercent": 30,
+      "currency": "USD",
+      "sku": "ELEC-EC-6017",
+      "stock": 149,
+      "shortDescription": "Portable speaker with 360-degree sound",
+      "description": "Compact waterproof speaker delivering rich bass and 12 hours of playtime, perfect for outdoor gatherings.",
+      "thumbnail": "https://picsum.photos/seed/gadget17/500/500",
+      "images": [
+        "https://picsum.photos/seed/gadget17/500/500"
+      ],
+      "colors": [
+        "Black",
+        "Blue",
+        "Red"
+      ],
+      "sizes": [],
+      "material": "ABS Plastic, Mesh Fabric",
+      "weightGrams": 450,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 6,
+      "returnPolicyDays": 45,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": true,
+      "rating": 3.8,
+      "reviewCount": 2,
+      "reviewIds": [
+        25,
+        73
+      ],
+      "tags": [
+        "electronics",
+        "tech",
+        "gadget"
+      ],
+      "createdAt": "2026-02-21T12:00:58Z",
+      "updatedAt": "2026-03-25T12:00:58Z"
+    },
+    {
+      "id": 18,
+      "name": "VoltCharge 65W GaN Charger",
+      "slug": "voltcharge-65w-gan-charger-18",
+      "brand": "VoltCharge",
+      "categoryId": 1,
+      "price": 598.51,
+      "originalPrice": 598.51,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "ELEC-VO-6018",
+      "stock": 39,
+      "shortDescription": "Compact fast charger for laptops and phones",
+      "description": "A pocket-sized GaN charger delivering 65W of fast charging power across three ports, ideal for travel.",
+      "thumbnail": "https://picsum.photos/seed/gadget18/500/500",
+      "images": [
+        "https://picsum.photos/seed/gadget18/500/500"
+      ],
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "sizes": [],
+      "material": "PC/ABS Composite",
+      "weightGrams": 120,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 12,
+      "returnPolicyDays": 30,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 3.2,
+      "reviewCount": 2,
+      "reviewIds": [
+        20,
+        36
+      ],
+      "tags": [
+        "electronics",
+        "tech",
+        "gadget"
+      ],
+      "createdAt": "2025-02-24T00:36:07Z",
+      "updatedAt": "2025-03-08T00:36:07Z"
+    },
+    {
+      "id": 19,
+      "name": "StreamCast 4K Media Player",
+      "slug": "streamcast-4k-media-player-19",
+      "brand": "StreamCast",
+      "categoryId": 1,
+      "price": 339.45,
+      "originalPrice": 424.31,
+      "discountPercent": 20,
+      "currency": "USD",
+      "sku": "ELEC-ST-6019",
+      "stock": 358,
+      "shortDescription": "Streaming device with voice remote",
+      "description": "Stream your favorite shows in stunning 4K HDR with a responsive voice-enabled remote and quick app switching.",
+      "thumbnail": "https://picsum.photos/seed/gadget19/500/500",
+      "images": [
+        "https://picsum.photos/seed/gadget19/500/500"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "sizes": [],
+      "material": "Plastic",
+      "weightGrams": 90,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 18,
+      "returnPolicyDays": 15,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": true,
+      "rating": 3.5,
+      "reviewCount": 1,
+      "reviewIds": [
+        113
+      ],
+      "tags": [
+        "electronics",
+        "tech",
+        "gadget"
+      ],
+      "createdAt": "2025-10-11T08:57:53Z",
+      "updatedAt": "2025-11-22T08:57:53Z"
+    },
+    {
+      "id": 20,
+      "name": "KeyForge Mechanical Keyboard",
+      "slug": "keyforge-mechanical-keyboard-20",
+      "brand": "KeyForge",
+      "categoryId": 1,
+      "price": 421.4,
+      "originalPrice": 648.31,
+      "discountPercent": 35,
+      "currency": "USD",
+      "sku": "ELEC-KE-6020",
+      "stock": 351,
+      "shortDescription": "Compact 65% mechanical keyboard with hot-swap switches",
+      "description": "A tactile mechanical keyboard featuring hot-swappable switches, per-key RGB lighting, and a durable aluminum frame.",
+      "thumbnail": "https://picsum.photos/seed/gadget20/500/500",
+      "images": [
+        "https://picsum.photos/seed/gadget20/500/500"
+      ],
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "sizes": [],
+      "material": "Aluminum, ABS Keycaps",
+      "weightGrams": 750,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 0,
+      "returnPolicyDays": 15,
+      "freeShipping": false,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": true,
+      "rating": 3.5,
+      "reviewCount": 1,
+      "reviewIds": [
+        92
+      ],
+      "tags": [
+        "electronics",
+        "tech",
+        "gadget"
+      ],
+      "createdAt": "2025-07-10T03:36:23Z",
+      "updatedAt": "2025-08-21T03:36:23Z"
+    },
+    {
+      "id": 21,
+      "name": "PixelClear Webcam 1080p",
+      "slug": "pixelclear-webcam-1080p-21",
+      "brand": "PixelClear",
+      "categoryId": 1,
+      "price": 248.28,
+      "originalPrice": 354.69,
+      "discountPercent": 30,
+      "currency": "USD",
+      "sku": "ELEC-PI-6021",
+      "stock": 447,
+      "shortDescription": "Full HD webcam with auto light correction",
+      "description": "Crystal clear 1080p video calls with automatic low-light correction and a built-in privacy shutter.",
+      "thumbnail": "https://picsum.photos/seed/gadget21/500/500",
+      "images": [
+        "https://picsum.photos/seed/gadget21/500/500"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "sizes": [],
+      "material": "Plastic, Glass Lens",
+      "weightGrams": 110,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 12,
+      "returnPolicyDays": 30,
+      "freeShipping": false,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": true,
+      "rating": 5.0,
+      "reviewCount": 1,
+      "reviewIds": [
+        77
+      ],
+      "tags": [
+        "electronics",
+        "tech",
+        "gadget"
+      ],
+      "createdAt": "2025-09-03T00:28:15Z",
+      "updatedAt": "2025-12-15T00:28:15Z"
+    },
+    {
+      "id": 22,
+      "name": "Meridian Slim Fit Chinos",
+      "slug": "meridian-slim-fit-chinos-22",
+      "brand": "Meridian",
+      "categoryId": 2,
+      "price": 137.15,
+      "originalPrice": 211.0,
+      "discountPercent": 35,
+      "currency": "USD",
+      "sku": "FASH-ME-6022",
+      "stock": 286,
+      "shortDescription": "Stretch cotton chinos with a tailored fit",
+      "description": "Comfortable stretch-cotton chinos with a tailored silhouette, perfect for both office and weekend wear.",
+      "thumbnail": "https://picsum.photos/seed/apparel22/500/500",
+      "images": [
+        "https://picsum.photos/seed/apparel22/500/500"
+      ],
+      "colors": [
+        "Khaki",
+        "Navy",
+        "Olive"
+      ],
+      "sizes": [],
+      "material": "Cotton Blend",
+      "weightGrams": 400,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 18,
+      "returnPolicyDays": 30,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": true,
+      "isOnSale": true,
+      "rating": 4.5,
+      "reviewCount": 2,
+      "reviewIds": [
+        49,
+        81
+      ],
+      "tags": [
+        "apparel",
+        "style",
+        "wardrobe"
+      ],
+      "createdAt": "2026-05-15T07:37:38Z",
+      "updatedAt": "2026-07-09T00:00:00Z"
+    },
+    {
+      "id": 23,
+      "name": "Coastline Linen Shirt",
+      "slug": "coastline-linen-shirt-23",
+      "brand": "Coastline",
+      "categoryId": 2,
+      "price": 449.22,
+      "originalPrice": 449.22,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "FASH-CO-6023",
+      "stock": 439,
+      "shortDescription": "Breathable linen shirt for warm weather",
+      "description": "Lightweight linen shirt with a relaxed fit, breathable fabric, and classic button-down styling.",
+      "thumbnail": "https://picsum.photos/seed/apparel23/500/500",
+      "images": [
+        "https://picsum.photos/seed/apparel23/500/500"
+      ],
+      "colors": [
+        "White",
+        "Sky Blue",
+        "Sand"
+      ],
+      "sizes": [],
+      "material": "100% Linen",
+      "weightGrams": 220,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 12,
+      "returnPolicyDays": 45,
+      "freeShipping": true,
+      "isFeatured": true,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 3.0,
+      "reviewCount": 1,
+      "reviewIds": [
+        68
+      ],
+      "tags": [
+        "apparel",
+        "style",
+        "wardrobe"
+      ],
+      "createdAt": "2025-04-18T10:41:26Z",
+      "updatedAt": "2025-08-27T10:41:26Z"
+    },
+    {
+      "id": 24,
+      "name": "Velora Pleated Midi Skirt",
+      "slug": "velora-pleated-midi-skirt-24",
+      "brand": "Velora",
+      "categoryId": 2,
+      "price": 896.54,
+      "originalPrice": 896.54,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "FASH-VE-6024",
+      "stock": 496,
+      "shortDescription": "Flowy pleated skirt for everyday elegance",
+      "description": "An elegant pleated midi skirt with a flattering A-line silhouette, suitable for both casual and formal settings.",
+      "thumbnail": "https://picsum.photos/seed/apparel24/500/500",
+      "images": [
+        "https://picsum.photos/seed/apparel24/500/500"
+      ],
+      "colors": [
+        "Black",
+        "Burgundy",
+        "Emerald"
+      ],
+      "sizes": [],
+      "material": "Polyester Crepe",
+      "weightGrams": 280,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 0,
+      "returnPolicyDays": 45,
+      "freeShipping": false,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 5.0,
+      "reviewCount": 2,
+      "reviewIds": [
+        45,
+        99
+      ],
+      "tags": [
+        "apparel",
+        "style",
+        "wardrobe"
+      ],
+      "createdAt": "2025-10-24T09:53:56Z",
+      "updatedAt": "2026-03-26T09:53:56Z"
+    },
+    {
+      "id": 25,
+      "name": "Northgate Wool Beanie",
+      "slug": "northgate-wool-beanie-25",
+      "brand": "Northgate",
+      "categoryId": 2,
+      "price": 109.27,
+      "originalPrice": 145.69,
+      "discountPercent": 25,
+      "currency": "USD",
+      "sku": "FASH-NO-6025",
+      "stock": 0,
+      "shortDescription": "Soft knit wool beanie for cold weather",
+      "description": "A cozy ribbed-knit beanie made from soft merino wool blend, keeping you warm through winter.",
+      "thumbnail": "https://picsum.photos/seed/apparel25/500/500",
+      "images": [
+        "https://picsum.photos/seed/apparel25/500/500"
+      ],
+      "colors": [
+        "Charcoal",
+        "Camel",
+        "Forest Green"
+      ],
+      "sizes": [],
+      "material": "Merino Wool Blend",
+      "weightGrams": 80,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 18,
+      "returnPolicyDays": 15,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": true,
+      "isOnSale": true,
+      "rating": 4.5,
+      "reviewCount": 1,
+      "reviewIds": [
+        30
+      ],
+      "tags": [
+        "apparel",
+        "style",
+        "wardrobe"
+      ],
+      "createdAt": "2026-05-13T20:23:38Z",
+      "updatedAt": "2026-07-09T00:00:00Z"
+    },
+    {
+      "id": 26,
+      "name": "Ambervale Silk Scarf",
+      "slug": "ambervale-silk-scarf-26",
+      "brand": "Ambervale",
+      "categoryId": 2,
+      "price": 275.61,
+      "originalPrice": 275.61,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "FASH-AM-6026",
+      "stock": 310,
+      "shortDescription": "Printed silk scarf with hand-rolled edges",
+      "description": "A luxurious printed silk scarf finished with hand-rolled edges, adding a refined touch to any outfit.",
+      "thumbnail": "https://picsum.photos/seed/apparel26/500/500",
+      "images": [
+        "https://picsum.photos/seed/apparel26/500/500"
+      ],
+      "colors": [
+        "Floral Print",
+        "Geometric Print"
+      ],
+      "sizes": [
+        "S",
+        "L"
+      ],
+      "material": "100% Silk",
+      "weightGrams": 60,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 0,
+      "returnPolicyDays": 14,
+      "freeShipping": false,
+      "isFeatured": true,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 5.0,
+      "reviewCount": 1,
+      "reviewIds": [
+        86
+      ],
+      "tags": [
+        "apparel",
+        "style",
+        "wardrobe"
+      ],
+      "createdAt": "2025-03-24T15:38:29Z",
+      "updatedAt": "2025-09-01T15:38:29Z"
+    },
+    {
+      "id": 27,
+      "name": "HearthGlow Ceramic Diffuser",
+      "slug": "hearthglow-ceramic-diffuser-27",
+      "brand": "HearthGlow",
+      "categoryId": 3,
+      "price": 61.54,
+      "originalPrice": 61.54,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "HOME-HE-6027",
+      "stock": 483,
+      "shortDescription": "Ultrasonic essential oil diffuser with LED light",
+      "description": "A whisper-quiet ultrasonic diffuser with ambient color-changing LED light and auto shut-off safety feature.",
+      "thumbnail": "https://picsum.photos/seed/homeware27/500/500",
+      "images": [
+        "https://picsum.photos/seed/homeware27/500/500"
+      ],
+      "colors": [
+        "White",
+        "Wood Grain"
+      ],
+      "sizes": [],
+      "material": "Ceramic, ABS",
+      "weightGrams": 340,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 0,
+      "returnPolicyDays": 45,
+      "freeShipping": false,
+      "isFeatured": true,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 3.0,
+      "reviewCount": 1,
+      "reviewIds": [
+        38
+      ],
+      "tags": [
+        "home",
+        "kitchen",
+        "living"
+      ],
+      "createdAt": "2025-08-27T20:28:43Z",
+      "updatedAt": "2025-10-28T20:28:43Z"
+    },
+    {
+      "id": 28,
+      "name": "KnifeCraft Chef Knife Set",
+      "slug": "knifecraft-chef-knife-set-28",
+      "brand": "KnifeCraft",
+      "categoryId": 3,
+      "price": 432.99,
+      "originalPrice": 432.99,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "HOME-KN-6028",
+      "stock": 134,
+      "shortDescription": "5-piece stainless steel knife set with block",
+      "description": "Precision-forged stainless steel knives with ergonomic handles, housed in a sleek acacia wood block.",
+      "thumbnail": "https://picsum.photos/seed/homeware28/500/500",
+      "images": [
+        "https://picsum.photos/seed/homeware28/500/500"
+      ],
+      "colors": [
+        "Silver/Wood"
+      ],
+      "sizes": [],
+      "material": "Stainless Steel, Acacia Wood",
+      "weightGrams": 40,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 0,
+      "returnPolicyDays": 45,
+      "freeShipping": false,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 5.0,
+      "reviewCount": 2,
+      "reviewIds": [
+        43,
+        60
+      ],
+      "tags": [
+        "home",
+        "kitchen",
+        "living"
+      ],
+      "createdAt": "2025-04-10T17:23:25Z",
+      "updatedAt": "2025-09-26T17:23:25Z"
+    },
+    {
+      "id": 29,
+      "name": "VelvetRest Weighted Blanket",
+      "slug": "velvetrest-weighted-blanket-29",
+      "brand": "VelvetRest",
+      "categoryId": 3,
+      "price": 644.51,
+      "originalPrice": 991.55,
+      "discountPercent": 35,
+      "currency": "USD",
+      "sku": "HOME-VE-6029",
+      "stock": 331,
+      "shortDescription": "15lb weighted blanket for better sleep",
+      "description": "A cozy weighted blanket filled with glass beads, designed to provide gentle, calming pressure for improved sleep.",
+      "thumbnail": "https://picsum.photos/seed/homeware29/500/500",
+      "images": [
+        "https://picsum.photos/seed/homeware29/500/500"
+      ],
+      "colors": [
+        "Grey",
+        "Navy",
+        "Blush"
+      ],
+      "sizes": [],
+      "material": "Cotton, Glass Beads",
+      "weightGrams": 60,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 12,
+      "returnPolicyDays": 14,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": true,
+      "isOnSale": true,
+      "rating": 4.2,
+      "reviewCount": 4,
+      "reviewIds": [
+        15,
+        39,
+        54,
+        103
+      ],
+      "tags": [
+        "home",
+        "kitchen",
+        "living"
+      ],
+      "createdAt": "2026-06-20T20:03:53Z",
+      "updatedAt": "2026-07-09T00:00:00Z"
+    },
+    {
+      "id": 30,
+      "name": "PureAir HEPA Air Purifier",
+      "slug": "pureair-hepa-air-purifier-30",
+      "brand": "PureAir",
+      "categoryId": 3,
+      "price": 28.71,
+      "originalPrice": 28.71,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "HOME-PU-6030",
+      "stock": 300,
+      "shortDescription": "3-stage HEPA air purifier for medium rooms",
+      "description": "Removes 99.97% of airborne particles with a true HEPA filter, ideal for rooms up to 300 sq ft.",
+      "thumbnail": "https://picsum.photos/seed/homeware30/500/500",
+      "images": [
+        "https://picsum.photos/seed/homeware30/500/500"
+      ],
+      "colors": [
+        "White"
+      ],
+      "sizes": [],
+      "material": "ABS Plastic",
+      "weightGrams": 180,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 24,
+      "returnPolicyDays": 14,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 4.0,
+      "reviewCount": 1,
+      "reviewIds": [
+        94
+      ],
+      "tags": [
+        "home",
+        "kitchen",
+        "living"
+      ],
+      "createdAt": "2025-02-19T17:31:45Z",
+      "updatedAt": "2025-05-17T17:31:45Z"
+    },
+    {
+      "id": 31,
+      "name": "Cascade Stainless Steel Cookware Set",
+      "slug": "cascade-stainless-steel-cookware-set-31",
+      "brand": "Cascade",
+      "categoryId": 3,
+      "price": 73.05,
+      "originalPrice": 112.38,
+      "discountPercent": 35,
+      "currency": "USD",
+      "sku": "HOME-CA-6031",
+      "stock": 247,
+      "shortDescription": "10-piece tri-ply stainless steel cookware set",
+      "description": "Professional-grade tri-ply construction ensures even heating across this versatile 10-piece cookware set.",
+      "thumbnail": "https://picsum.photos/seed/homeware31/500/500",
+      "images": [
+        "https://picsum.photos/seed/homeware31/500/500"
+      ],
+      "colors": [
+        "Stainless Steel"
+      ],
+      "sizes": [],
+      "material": "Stainless Steel",
+      "weightGrams": 260,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 18,
+      "returnPolicyDays": 45,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": true,
+      "rating": 3.0,
+      "reviewCount": 1,
+      "reviewIds": [
+        106
+      ],
+      "tags": [
+        "home",
+        "kitchen",
+        "living"
+      ],
+      "createdAt": "2025-01-25T09:34:47Z",
+      "updatedAt": "2025-04-20T09:34:47Z"
+    },
+    {
+      "id": 32,
+      "name": "IronWave Resistance Bands Set",
+      "slug": "ironwave-resistance-bands-set-32",
+      "brand": "IronWave",
+      "categoryId": 4,
+      "price": 179.45,
+      "originalPrice": 239.27,
+      "discountPercent": 25,
+      "currency": "USD",
+      "sku": "SPRT-IR-6032",
+      "stock": 180,
+      "shortDescription": "5-piece resistance band set with door anchor",
+      "description": "A versatile set of 5 resistance bands with varying tension levels, complete with door anchor and handles.",
+      "thumbnail": "https://picsum.photos/seed/fitness32/500/500",
+      "images": [
+        "https://picsum.photos/seed/fitness32/500/500"
+      ],
+      "colors": [
+        "Multicolor"
+      ],
+      "sizes": [],
+      "material": "Natural Latex",
+      "weightGrams": 300,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 24,
+      "returnPolicyDays": 14,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": true,
+      "rating": 4.8,
+      "reviewCount": 2,
+      "reviewIds": [
+        82,
+        87
+      ],
+      "tags": [
+        "fitness",
+        "sports",
+        "training"
+      ],
+      "createdAt": "2026-01-03T08:51:16Z",
+      "updatedAt": "2026-04-18T08:51:16Z"
+    },
+    {
+      "id": 33,
+      "name": "SummitPeak Trekking Poles",
+      "slug": "summitpeak-trekking-poles-33",
+      "brand": "SummitPeak",
+      "categoryId": 4,
+      "price": 63.94,
+      "originalPrice": 63.94,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "SPRT-SU-6033",
+      "stock": 408,
+      "shortDescription": "Collapsible carbon fiber trekking poles (pair)",
+      "description": "Lightweight carbon fiber poles with quick-lock adjustment and shock-absorbing tips for trail hiking.",
+      "thumbnail": "https://picsum.photos/seed/fitness33/500/500",
+      "images": [
+        "https://picsum.photos/seed/fitness33/500/500"
+      ],
+      "colors": [
+        "Black/Orange",
+        "Grey/Blue"
+      ],
+      "sizes": [],
+      "material": "Carbon Fiber",
+      "weightGrams": 150,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 0,
+      "returnPolicyDays": 45,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": true,
+      "isOnSale": false,
+      "rating": 3.8,
+      "reviewCount": 2,
+      "reviewIds": [
+        67,
+        109
+      ],
+      "tags": [
+        "fitness",
+        "sports",
+        "training"
+      ],
+      "createdAt": "2026-05-17T21:39:49Z",
+      "updatedAt": "2026-06-12T21:39:49Z"
+    },
+    {
+      "id": 34,
+      "name": "HydroFlow Insulated Water Bottle",
+      "slug": "hydroflow-insulated-water-bottle-34",
+      "brand": "HydroFlow",
+      "categoryId": 4,
+      "price": 257.9,
+      "originalPrice": 286.56,
+      "discountPercent": 10,
+      "currency": "USD",
+      "sku": "SPRT-HY-6034",
+      "stock": 225,
+      "shortDescription": "32oz vacuum-insulated stainless steel bottle",
+      "description": "Keeps drinks cold for 24 hours or hot for 12 with double-wall vacuum insulation and a leak-proof lid.",
+      "thumbnail": "https://picsum.photos/seed/fitness34/500/500",
+      "images": [
+        "https://picsum.photos/seed/fitness34/500/500"
+      ],
+      "colors": [
+        "Black",
+        "Teal",
+        "Coral"
+      ],
+      "sizes": [],
+      "material": "Stainless Steel",
+      "weightGrams": 400,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 0,
+      "returnPolicyDays": 14,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": true,
+      "rating": 4.5,
+      "reviewCount": 2,
+      "reviewIds": [
+        57,
+        112
+      ],
+      "tags": [
+        "fitness",
+        "sports",
+        "training"
+      ],
+      "createdAt": "2025-11-24T16:26:37Z",
+      "updatedAt": "2026-01-10T16:26:37Z"
+    },
+    {
+      "id": 35,
+      "name": "CoreFlex Ab Roller Wheel",
+      "slug": "coreflex-ab-roller-wheel-35",
+      "brand": "CoreFlex",
+      "categoryId": 4,
+      "price": 872.4,
+      "originalPrice": 872.4,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "SPRT-CO-6035",
+      "stock": 433,
+      "shortDescription": "Dual-wheel ab roller with knee pad",
+      "description": "A stable dual-wheel design for core workouts, including a cushioned knee pad for comfort.",
+      "thumbnail": "https://picsum.photos/seed/fitness35/500/500",
+      "images": [
+        "https://picsum.photos/seed/fitness35/500/500"
+      ],
+      "colors": [
+        "Black/Red"
+      ],
+      "sizes": [],
+      "material": "Steel, EVA Foam",
+      "weightGrams": 250,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 12,
+      "returnPolicyDays": 15,
+      "freeShipping": false,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 4.0,
+      "reviewCount": 2,
+      "reviewIds": [
+        42,
+        108
+      ],
+      "tags": [
+        "fitness",
+        "sports",
+        "training"
+      ],
+      "createdAt": "2026-02-24T21:17:22Z",
+      "updatedAt": "2026-02-28T21:17:22Z"
+    },
+    {
+      "id": 36,
+      "name": "TrailBlaze Running Belt",
+      "slug": "trailblaze-running-belt-36",
+      "brand": "TrailBlaze",
+      "categoryId": 4,
+      "price": 347.28,
+      "originalPrice": 347.28,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "SPRT-TR-6036",
+      "stock": 134,
+      "shortDescription": "Adjustable running belt with phone pouch",
+      "description": "A lightweight, bounce-free running belt with a stretchable phone pouch and reflective trim for visibility.",
+      "thumbnail": "https://picsum.photos/seed/fitness36/500/500",
+      "images": [
+        "https://picsum.photos/seed/fitness36/500/500"
+      ],
+      "colors": [
+        "Black",
+        "Grey"
+      ],
+      "sizes": [],
+      "material": "Neoprene, Spandex",
+      "weightGrams": 350,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 6,
+      "returnPolicyDays": 30,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 4.0,
+      "reviewCount": 2,
+      "reviewIds": [
+        76,
+        111
+      ],
+      "tags": [
+        "fitness",
+        "sports",
+        "training"
+      ],
+      "createdAt": "2025-02-15T13:02:35Z",
+      "updatedAt": "2025-03-30T13:02:35Z"
+    },
+    {
+      "id": 37,
+      "name": "The Cartographer's Silence",
+      "slug": "the-cartographers-silence-37",
+      "brand": "Meridian Press",
+      "categoryId": 5,
+      "price": 649.37,
+      "originalPrice": 811.71,
+      "discountPercent": 20,
+      "currency": "USD",
+      "sku": "BOOK-ME-6037",
+      "stock": 110,
+      "shortDescription": "A literary mystery set in post-war Lisbon",
+      "description": "Following a mapmaker who discovers a city that doesn't officially exist, this atmospheric novel blends mystery with historical intrigue. Hardcover, 368 pages.",
+      "thumbnail": "https://picsum.photos/seed/novel37/500/500",
+      "images": [
+        "https://picsum.photos/seed/novel37/500/500"
+      ],
+      "colors": [],
+      "sizes": [
+        "Hardcover"
+      ],
+      "material": "Paper",
+      "weightGrams": 200,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 18,
+      "returnPolicyDays": 14,
+      "freeShipping": false,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": true,
+      "rating": 4.0,
+      "reviewCount": 1,
+      "reviewIds": [
+        96
+      ],
+      "tags": [
+        "books",
+        "reading",
+        "literature"
+      ],
+      "createdAt": "2026-03-08T16:16:20Z",
+      "updatedAt": "2026-07-09T00:00:00Z"
+    },
+    {
+      "id": 38,
+      "name": "Deep Work Revisited",
+      "slug": "deep-work-revisited-38",
+      "brand": "Northline Books",
+      "categoryId": 5,
+      "price": 529.91,
+      "originalPrice": 529.91,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "BOOK-NO-6038",
+      "stock": 435,
+      "shortDescription": "An updated guide to focused productivity",
+      "description": "A refreshed take on cultivating deep focus in a distraction-filled world, with new case studies and exercises. Paperback, 288 pages.",
+      "thumbnail": "https://picsum.photos/seed/novel38/500/500",
+      "images": [
+        "https://picsum.photos/seed/novel38/500/500"
+      ],
+      "colors": [],
+      "sizes": [
+        "Paperback"
+      ],
+      "material": "Paper",
+      "weightGrams": 220,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 18,
+      "returnPolicyDays": 14,
+      "freeShipping": false,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 5.0,
+      "reviewCount": 1,
+      "reviewIds": [
+        100
+      ],
+      "tags": [
+        "books",
+        "reading",
+        "literature"
+      ],
+      "createdAt": "2025-02-14T09:38:16Z",
+      "updatedAt": "2025-02-27T09:38:16Z"
+    },
+    {
+      "id": 39,
+      "name": "Whispers of the Tide",
+      "slug": "whispers-of-the-tide-39",
+      "brand": "Harborlight Publishing",
+      "categoryId": 5,
+      "price": 70.48,
+      "originalPrice": 70.48,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "BOOK-HA-6039",
+      "stock": 205,
+      "shortDescription": "A coming-of-age story set on a remote island",
+      "description": "A tender coming-of-age tale following a young fisherman's daughter navigating loss, tradition, and change. Paperback, 310 pages.",
+      "thumbnail": "https://picsum.photos/seed/novel39/500/500",
+      "images": [
+        "https://picsum.photos/seed/novel39/500/500"
+      ],
+      "colors": [],
+      "sizes": [
+        "Paperback"
+      ],
+      "material": "Paper",
+      "weightGrams": 180,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 0,
+      "returnPolicyDays": 45,
+      "freeShipping": true,
+      "isFeatured": true,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 4.0,
+      "reviewCount": 2,
+      "reviewIds": [
+        23,
+        79
+      ],
+      "tags": [
+        "books",
+        "reading",
+        "literature"
+      ],
+      "createdAt": "2025-02-23T05:19:48Z",
+      "updatedAt": "2025-07-26T05:19:48Z"
+    },
+    {
+      "id": 40,
+      "name": "The Economics of Everyday Choices",
+      "slug": "the-economics-of-everyday-choices-40",
+      "brand": "Northline Books",
+      "categoryId": 5,
+      "price": 383.1,
+      "originalPrice": 383.1,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "BOOK-NO-6040",
+      "stock": 266,
+      "shortDescription": "An accessible introduction to behavioral economics",
+      "description": "Using relatable everyday scenarios, this book breaks down the psychology behind the choices we make with our money and time. Paperback, 256 pages.",
+      "thumbnail": "https://picsum.photos/seed/novel40/500/500",
+      "images": [
+        "https://picsum.photos/seed/novel40/500/500"
+      ],
+      "colors": [],
+      "sizes": [
+        "Paperback"
+      ],
+      "material": "Paper",
+      "weightGrams": 150,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 24,
+      "returnPolicyDays": 30,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": true,
+      "isOnSale": false,
+      "rating": 5.0,
+      "reviewCount": 1,
+      "reviewIds": [
+        66
+      ],
+      "tags": [
+        "books",
+        "reading",
+        "literature"
+      ],
+      "createdAt": "2026-04-27T02:06:29Z",
+      "updatedAt": "2026-05-18T02:06:29Z"
+    },
+    {
+      "id": 41,
+      "name": "Garden of Forgotten Names",
+      "slug": "garden-of-forgotten-names-41",
+      "brand": "Meridian Press",
+      "categoryId": 5,
+      "price": 607.79,
+      "originalPrice": 759.74,
+      "discountPercent": 20,
+      "currency": "USD",
+      "sku": "BOOK-ME-6041",
+      "stock": 474,
+      "shortDescription": "A multigenerational family saga",
+      "description": "Spanning three generations, this sweeping saga follows a family's secrets buried in the soil of their ancestral garden. Hardcover, 420 pages.",
+      "thumbnail": "https://picsum.photos/seed/novel41/500/500",
+      "images": [
+        "https://picsum.photos/seed/novel41/500/500"
+      ],
+      "colors": [],
+      "sizes": [
+        "Hardcover"
+      ],
+      "material": "Paper",
+      "weightGrams": 190,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 12,
+      "returnPolicyDays": 45,
+      "freeShipping": false,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": true,
+      "rating": 5.0,
+      "reviewCount": 1,
+      "reviewIds": [
+        44
+      ],
+      "tags": [
+        "books",
+        "reading",
+        "literature"
+      ],
+      "createdAt": "2025-11-04T09:58:58Z",
+      "updatedAt": "2025-12-08T09:58:58Z"
+    },
+    {
+      "id": 42,
+      "name": "PuzzleQuest 1000-Piece Jigsaw",
+      "slug": "puzzlequest-1000-piece-jigsaw-42",
+      "brand": "PuzzleQuest",
+      "categoryId": 6,
+      "price": 488.48,
+      "originalPrice": 488.48,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "TOYS-PU-6042",
+      "stock": 66,
+      "shortDescription": "Scenic landscape 1000-piece jigsaw puzzle",
+      "description": "A beautifully illustrated 1000-piece jigsaw puzzle depicting a serene mountain landscape, printed on premium thick board.",
+      "thumbnail": "https://picsum.photos/seed/toy42/500/500",
+      "images": [
+        "https://picsum.photos/seed/toy42/500/500"
+      ],
+      "colors": [
+        "Multicolor"
+      ],
+      "sizes": [],
+      "material": "Cardboard",
+      "weightGrams": 300,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 0,
+      "returnPolicyDays": 30,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 4.0,
+      "reviewCount": 3,
+      "reviewIds": [
+        50,
+        98,
+        114
+      ],
+      "tags": [
+        "toys",
+        "kids",
+        "play"
+      ],
+      "createdAt": "2025-03-19T15:47:08Z",
+      "updatedAt": "2025-04-07T15:47:08Z"
+    },
+    {
+      "id": 43,
+      "name": "BrickVerse Construction Set",
+      "slug": "brickverse-construction-set-43",
+      "brand": "BrickVerse",
+      "categoryId": 6,
+      "price": 636.14,
+      "originalPrice": 636.14,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "TOYS-BR-6043",
+      "stock": 412,
+      "shortDescription": "500-piece building block set for kids",
+      "description": "A creative building block set compatible with major brick brands, encouraging imaginative construction play.",
+      "thumbnail": "https://picsum.photos/seed/toy43/500/500",
+      "images": [
+        "https://picsum.photos/seed/toy43/500/500"
+      ],
+      "colors": [
+        "Multicolor"
+      ],
+      "sizes": [],
+      "material": "ABS Plastic",
+      "weightGrams": 220,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 18,
+      "returnPolicyDays": 30,
+      "freeShipping": false,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 4.5,
+      "reviewCount": 1,
+      "reviewIds": [
+        71
+      ],
+      "tags": [
+        "toys",
+        "kids",
+        "play"
+      ],
+      "createdAt": "2025-12-07T08:21:08Z",
+      "updatedAt": "2026-04-26T08:21:08Z"
+    },
+    {
+      "id": 44,
+      "name": "StrategyMasters Board Game",
+      "slug": "strategymasters-board-game-44",
+      "brand": "StrategyMasters",
+      "categoryId": 6,
+      "price": 245.36,
+      "originalPrice": 245.36,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "TOYS-ST-6044",
+      "stock": 379,
+      "shortDescription": "Strategic city-building board game for 2-5 players",
+      "description": "A competitive city-building board game combining resource management and tactical planning for 2-5 players.",
+      "thumbnail": "https://picsum.photos/seed/toy44/500/500",
+      "images": [
+        "https://picsum.photos/seed/toy44/500/500"
+      ],
+      "colors": [
+        "Multicolor"
+      ],
+      "sizes": [],
+      "material": "Cardboard, Wood Pieces",
+      "weightGrams": 150,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 18,
+      "returnPolicyDays": 15,
+      "freeShipping": false,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 4.7,
+      "reviewCount": 3,
+      "reviewIds": [
+        34,
+        104,
+        107
+      ],
+      "tags": [
+        "toys",
+        "kids",
+        "play"
+      ],
+      "createdAt": "2025-03-22T10:59:32Z",
+      "updatedAt": "2025-04-26T10:59:32Z"
+    },
+    {
+      "id": 45,
+      "name": "PlushPals Stuffed Bear",
+      "slug": "plushpals-stuffed-bear-45",
+      "brand": "PlushPals",
+      "categoryId": 6,
+      "price": 574.46,
+      "originalPrice": 765.95,
+      "discountPercent": 25,
+      "currency": "USD",
+      "sku": "TOYS-PL-6045",
+      "stock": 127,
+      "shortDescription": "Soft plush teddy bear, 16 inches",
+      "description": "An ultra-soft plush teddy bear with embroidered features, safe for all ages and machine washable.",
+      "thumbnail": "https://picsum.photos/seed/toy45/500/500",
+      "images": [
+        "https://picsum.photos/seed/toy45/500/500"
+      ],
+      "colors": [
+        "Brown",
+        "Cream",
+        "Grey"
+      ],
+      "sizes": [],
+      "material": "Polyester Plush",
+      "weightGrams": 400,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 0,
+      "returnPolicyDays": 30,
+      "freeShipping": false,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": true,
+      "rating": 4.0,
+      "reviewCount": 2,
+      "reviewIds": [
+        26,
+        46
+      ],
+      "tags": [
+        "toys",
+        "kids",
+        "play"
+      ],
+      "createdAt": "2025-06-08T03:19:44Z",
+      "updatedAt": "2025-12-01T03:19:44Z"
+    },
+    {
+      "id": 46,
+      "name": "RoboDash Remote Control Car",
+      "slug": "robodash-remote-control-car-46",
+      "brand": "RoboDash",
+      "categoryId": 6,
+      "price": 306.86,
+      "originalPrice": 383.57,
+      "discountPercent": 20,
+      "currency": "USD",
+      "sku": "TOYS-RO-6046",
+      "stock": 81,
+      "shortDescription": "High-speed RC car with LED lights",
+      "description": "A rugged remote-control car capable of 20mph speeds, featuring all-terrain tires and LED underglow lights.",
+      "thumbnail": "https://picsum.photos/seed/toy46/500/500",
+      "images": [
+        "https://picsum.photos/seed/toy46/500/500"
+      ],
+      "colors": [
+        "Red",
+        "Blue"
+      ],
+      "sizes": [],
+      "material": "ABS Plastic, Rubber",
+      "weightGrams": 130,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 12,
+      "returnPolicyDays": 45,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": true,
+      "rating": 3.8,
+      "reviewCount": 2,
+      "reviewIds": [
+        32,
+        64
+      ],
+      "tags": [
+        "toys",
+        "kids",
+        "play"
+      ],
+      "createdAt": "2025-02-04T05:50:12Z",
+      "updatedAt": "2025-02-05T05:50:12Z"
+    },
+    {
+      "id": 47,
+      "name": "GlowLab Vitamin C Serum",
+      "slug": "glowlab-vitamin-c-serum-47",
+      "brand": "GlowLab",
+      "categoryId": 7,
+      "price": 814.49,
+      "originalPrice": 814.49,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "BEAU-GL-6047",
+      "stock": 426,
+      "shortDescription": "Brightening vitamin C facial serum",
+      "description": "A lightweight serum formulated with 15% vitamin C and hyaluronic acid to brighten and hydrate skin.",
+      "thumbnail": "https://picsum.photos/seed/beauty47/500/500",
+      "images": [
+        "https://picsum.photos/seed/beauty47/500/500"
+      ],
+      "colors": [
+        "30ml"
+      ],
+      "sizes": [],
+      "material": "Liquid",
+      "weightGrams": 400,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 12,
+      "returnPolicyDays": 15,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 5.0,
+      "reviewCount": 1,
+      "reviewIds": [
+        110
+      ],
+      "tags": [
+        "beauty",
+        "skincare",
+        "selfcare"
+      ],
+      "createdAt": "2025-02-28T10:38:49Z",
+      "updatedAt": "2025-08-24T10:38:49Z"
+    },
+    {
+      "id": 48,
+      "name": "PureRoot Argan Hair Oil",
+      "slug": "pureroot-argan-hair-oil-48",
+      "brand": "PureRoot",
+      "categoryId": 7,
+      "price": 810.03,
+      "originalPrice": 952.98,
+      "discountPercent": 15,
+      "currency": "USD",
+      "sku": "BEAU-PU-6048",
+      "stock": 340,
+      "shortDescription": "Nourishing argan oil hair treatment",
+      "description": "Cold-pressed argan oil that tames frizz and adds shine without leaving hair feeling greasy.",
+      "thumbnail": "https://picsum.photos/seed/beauty48/500/500",
+      "images": [
+        "https://picsum.photos/seed/beauty48/500/500"
+      ],
+      "colors": [
+        "100ml"
+      ],
+      "sizes": [],
+      "material": "Liquid",
+      "weightGrams": 320,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 12,
+      "returnPolicyDays": 45,
+      "freeShipping": false,
+      "isFeatured": true,
+      "isNew": false,
+      "isOnSale": true,
+      "rating": 3.5,
+      "reviewCount": 1,
+      "reviewIds": [
+        85
+      ],
+      "tags": [
+        "beauty",
+        "skincare",
+        "selfcare"
+      ],
+      "createdAt": "2025-10-11T05:35:48Z",
+      "updatedAt": "2025-10-22T05:35:48Z"
+    },
+    {
+      "id": 49,
+      "name": "SilkTouch Electric Facial Cleansing Brush",
+      "slug": "silktouch-electric-facial-cleansing-brush-49",
+      "brand": "SilkTouch",
+      "categoryId": 7,
+      "price": 878.81,
+      "originalPrice": 878.81,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "BEAU-SI-6049",
+      "stock": 450,
+      "shortDescription": "Sonic facial cleansing brush with 3 speeds",
+      "description": "A waterproof sonic cleansing brush with soft silicone bristles and three adjustable speed settings.",
+      "thumbnail": "https://picsum.photos/seed/beauty49/500/500",
+      "images": [
+        "https://picsum.photos/seed/beauty49/500/500"
+      ],
+      "colors": [
+        "White",
+        "Pink"
+      ],
+      "sizes": [],
+      "material": "Silicone, ABS",
+      "weightGrams": 180,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 6,
+      "returnPolicyDays": 30,
+      "freeShipping": false,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 3.6,
+      "reviewCount": 4,
+      "reviewIds": [
+        78,
+        88,
+        91,
+        102
+      ],
+      "tags": [
+        "beauty",
+        "skincare",
+        "selfcare"
+      ],
+      "createdAt": "2025-07-03T21:06:13Z",
+      "updatedAt": "2025-08-14T21:06:13Z"
+    },
+    {
+      "id": 50,
+      "name": "MintFresh Charcoal Toothpaste",
+      "slug": "mintfresh-charcoal-toothpaste-50",
+      "brand": "MintFresh",
+      "categoryId": 7,
+      "price": 151.68,
+      "originalPrice": 151.68,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "BEAU-MI-6050",
+      "stock": 194,
+      "shortDescription": "Whitening charcoal toothpaste, pack of 3",
+      "description": "Activated charcoal toothpaste that gently whitens teeth while freshening breath, fluoride-free formula.",
+      "thumbnail": "https://picsum.photos/seed/beauty50/500/500",
+      "images": [
+        "https://picsum.photos/seed/beauty50/500/500"
+      ],
+      "colors": [
+        "3-Pack"
+      ],
+      "sizes": [],
+      "material": "Gel",
+      "weightGrams": 500,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 0,
+      "returnPolicyDays": 15,
+      "freeShipping": false,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 4.8,
+      "reviewCount": 3,
+      "reviewIds": [
+        59,
+        61,
+        72
+      ],
+      "tags": [
+        "beauty",
+        "skincare",
+        "selfcare"
+      ],
+      "createdAt": "2025-07-12T18:10:21Z",
+      "updatedAt": "2025-09-19T18:10:21Z"
+    },
+    {
+      "id": 51,
+      "name": "BareGlow Mineral Sunscreen SPF50",
+      "slug": "bareglow-mineral-sunscreen-spf50-51",
+      "brand": "BareGlow",
+      "categoryId": 7,
+      "price": 281.61,
+      "originalPrice": 281.61,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "BEAU-BA-6051",
+      "stock": 115,
+      "shortDescription": "Reef-safe mineral sunscreen lotion",
+      "description": "A lightweight, non-greasy mineral sunscreen offering broad-spectrum SPF50 protection, safe for sensitive skin.",
+      "thumbnail": "https://picsum.photos/seed/beauty51/500/500",
+      "images": [
+        "https://picsum.photos/seed/beauty51/500/500"
+      ],
+      "colors": [
+        "100ml"
+      ],
+      "sizes": [],
+      "material": "Lotion",
+      "weightGrams": 280,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 12,
+      "returnPolicyDays": 30,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 4.2,
+      "reviewCount": 2,
+      "reviewIds": [
+        55,
+        62
+      ],
+      "tags": [
+        "beauty",
+        "skincare",
+        "selfcare"
+      ],
+      "createdAt": "2025-12-24T12:40:27Z",
+      "updatedAt": "2026-03-24T12:40:27Z"
+    },
+    {
+      "id": 52,
+      "name": "WagWell Orthopedic Dog Bed",
+      "slug": "wagwell-orthopedic-dog-bed-52",
+      "brand": "WagWell",
+      "categoryId": 8,
+      "price": 258.41,
+      "originalPrice": 258.41,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "PETS-WA-6052",
+      "stock": 203,
+      "shortDescription": "Memory foam orthopedic bed for large dogs",
+      "description": "A supportive orthopedic bed with memory foam base, ideal for senior dogs or those with joint issues.",
+      "thumbnail": "https://picsum.photos/seed/petitem52/500/500",
+      "images": [
+        "https://picsum.photos/seed/petitem52/500/500"
+      ],
+      "colors": [
+        "Grey",
+        "Brown"
+      ],
+      "sizes": [],
+      "material": "Memory Foam, Polyester Cover",
+      "weightGrams": 60,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 6,
+      "returnPolicyDays": 14,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 5.0,
+      "reviewCount": 2,
+      "reviewIds": [
+        18,
+        48
+      ],
+      "tags": [
+        "pets",
+        "animals",
+        "petcare"
+      ],
+      "createdAt": "2025-02-23T22:05:47Z",
+      "updatedAt": "2025-09-09T22:05:47Z"
+    },
+    {
+      "id": 53,
+      "name": "PurrFection Cat Scratching Post",
+      "slug": "purrfection-cat-scratching-post-53",
+      "brand": "PurrFection",
+      "categoryId": 8,
+      "price": 526.71,
+      "originalPrice": 526.71,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "PETS-PU-6053",
+      "stock": 18,
+      "shortDescription": "Tall sisal-wrapped cat scratching post",
+      "description": "A sturdy 32-inch scratching post wrapped in natural sisal rope, topped with a cozy perch.",
+      "thumbnail": "https://picsum.photos/seed/petitem53/500/500",
+      "images": [
+        "https://picsum.photos/seed/petitem53/500/500"
+      ],
+      "colors": [
+        "Beige",
+        "Grey"
+      ],
+      "sizes": [],
+      "material": "Sisal Rope, Particle Board",
+      "weightGrams": 90,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 24,
+      "returnPolicyDays": 30,
+      "freeShipping": true,
+      "isFeatured": true,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 5.0,
+      "reviewCount": 1,
+      "reviewIds": [
+        47
+      ],
+      "tags": [
+        "pets",
+        "animals",
+        "petcare"
+      ],
+      "createdAt": "2025-07-22T21:24:15Z",
+      "updatedAt": "2025-09-06T21:24:15Z"
+    },
+    {
+      "id": 54,
+      "name": "FetchMaster Interactive Ball Launcher",
+      "slug": "fetchmaster-interactive-ball-launcher-54",
+      "brand": "FetchMaster",
+      "categoryId": 8,
+      "price": 352.81,
+      "originalPrice": 352.81,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "PETS-FE-6054",
+      "stock": 129,
+      "shortDescription": "Automatic ball launcher for dogs",
+      "description": "An automatic fetch machine that launches balls at three distance settings for hands-free playtime.",
+      "thumbnail": "https://picsum.photos/seed/petitem54/500/500",
+      "images": [
+        "https://picsum.photos/seed/petitem54/500/500"
+      ],
+      "colors": [
+        "Blue/Grey"
+      ],
+      "sizes": [],
+      "material": "ABS Plastic",
+      "weightGrams": 150,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 18,
+      "returnPolicyDays": 45,
+      "freeShipping": true,
+      "isFeatured": true,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 4.5,
+      "reviewCount": 3,
+      "reviewIds": [
+        24,
+        29,
+        40
+      ],
+      "tags": [
+        "pets",
+        "animals",
+        "petcare"
+      ],
+      "createdAt": "2026-02-02T05:37:00Z",
+      "updatedAt": "2026-03-04T05:37:00Z"
+    },
+    {
+      "id": 55,
+      "name": "NutriPaws Grain-Free Dog Food",
+      "slug": "nutripaws-grain-free-dog-food-55",
+      "brand": "NutriPaws",
+      "categoryId": 8,
+      "price": 334.15,
+      "originalPrice": 514.08,
+      "discountPercent": 35,
+      "currency": "USD",
+      "sku": "PETS-NU-6055",
+      "stock": 470,
+      "shortDescription": "Grain-free dry dog food, 15lb bag",
+      "description": "A protein-rich, grain-free kibble made with real chicken and sweet potato for dogs of all ages.",
+      "thumbnail": "https://picsum.photos/seed/petitem55/500/500",
+      "images": [
+        "https://picsum.photos/seed/petitem55/500/500"
+      ],
+      "colors": [
+        "15lb Bag"
+      ],
+      "sizes": [],
+      "material": "Dry Kibble",
+      "weightGrams": 200,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 0,
+      "returnPolicyDays": 30,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": true,
+      "isOnSale": true,
+      "rating": 4.8,
+      "reviewCount": 2,
+      "reviewIds": [
+        83,
+        93
+      ],
+      "tags": [
+        "pets",
+        "animals",
+        "petcare"
+      ],
+      "createdAt": "2026-06-05T21:25:17Z",
+      "updatedAt": "2026-07-09T00:00:00Z"
+    },
+    {
+      "id": 56,
+      "name": "AquaTank Self-Cleaning Fish Tank",
+      "slug": "aquatank-self-cleaning-fish-tank-56",
+      "brand": "AquaTank",
+      "categoryId": 8,
+      "price": 300.29,
+      "originalPrice": 300.29,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "PETS-AQ-6056",
+      "stock": 282,
+      "shortDescription": "10-gallon self-cleaning aquarium kit",
+      "description": "A complete aquarium kit featuring a built-in filtration system and LED lighting for vibrant fish habitats.",
+      "thumbnail": "https://picsum.photos/seed/petitem56/500/500",
+      "images": [
+        "https://picsum.photos/seed/petitem56/500/500"
+      ],
+      "colors": [
+        "Clear"
+      ],
+      "sizes": [],
+      "material": "Glass, Plastic",
+      "weightGrams": 40,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 12,
+      "returnPolicyDays": 15,
+      "freeShipping": true,
+      "isFeatured": true,
+      "isNew": true,
+      "isOnSale": false,
+      "rating": 3.8,
+      "reviewCount": 2,
+      "reviewIds": [
+        16,
+        95
+      ],
+      "tags": [
+        "pets",
+        "animals",
+        "petcare"
+      ],
+      "createdAt": "2026-06-02T23:47:05Z",
+      "updatedAt": "2026-07-09T00:00:00Z"
+    },
+    {
+      "id": 57,
+      "name": "RoadGuard Tire Inflator Pump",
+      "slug": "roadguard-tire-inflator-pump-57",
+      "brand": "RoadGuard",
+      "categoryId": 9,
+      "price": 497.65,
+      "originalPrice": 622.06,
+      "discountPercent": 20,
+      "currency": "USD",
+      "sku": "AUTO-RO-6057",
+      "stock": 106,
+      "shortDescription": "Portable digital tire inflator with pressure gauge",
+      "description": "A compact 12V tire inflator with digital pressure gauge and auto shut-off, powered via car outlet.",
+      "thumbnail": "https://picsum.photos/seed/autopart57/500/500",
+      "images": [
+        "https://picsum.photos/seed/autopart57/500/500"
+      ],
+      "colors": [
+        "Black/Orange"
+      ],
+      "sizes": [],
+      "material": "ABS Plastic, Rubber Hose",
+      "weightGrams": 130,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 24,
+      "returnPolicyDays": 30,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": true,
+      "rating": 5.0,
+      "reviewCount": 1,
+      "reviewIds": [
+        65
+      ],
+      "tags": [
+        "auto",
+        "car",
+        "vehicle"
+      ],
+      "createdAt": "2025-08-22T18:06:44Z",
+      "updatedAt": "2025-12-04T18:06:44Z"
+    },
+    {
+      "id": 58,
+      "name": "ClearDrive Windshield Wiper Blades",
+      "slug": "cleardrive-windshield-wiper-blades-58",
+      "brand": "ClearDrive",
+      "categoryId": 9,
+      "price": 200.18,
+      "originalPrice": 200.18,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "AUTO-CL-6058",
+      "stock": 460,
+      "shortDescription": "All-weather wiper blades, pair",
+      "description": "Durable all-season wiper blades with a hybrid design for streak-free clearing in rain or snow.",
+      "thumbnail": "https://picsum.photos/seed/autopart58/500/500",
+      "images": [
+        "https://picsum.photos/seed/autopart58/500/500"
+      ],
+      "colors": [
+        "24in/20in Pair"
+      ],
+      "sizes": [],
+      "material": "Rubber, Metal Frame",
+      "weightGrams": 400,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 24,
+      "returnPolicyDays": 14,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 4.0,
+      "reviewCount": 1,
+      "reviewIds": [
+        75
+      ],
+      "tags": [
+        "auto",
+        "car",
+        "vehicle"
+      ],
+      "createdAt": "2025-12-10T10:27:21Z",
+      "updatedAt": "2026-06-01T10:27:21Z"
+    },
+    {
+      "id": 59,
+      "name": "NightBeam LED Headlight Kit",
+      "slug": "nightbeam-led-headlight-kit-59",
+      "brand": "NightBeam",
+      "categoryId": 9,
+      "price": 561.13,
+      "originalPrice": 660.15,
+      "discountPercent": 15,
+      "currency": "USD",
+      "sku": "AUTO-NI-6059",
+      "stock": 343,
+      "shortDescription": "Ultra-bright LED headlight conversion kit",
+      "description": "A plug-and-play LED headlight kit producing 6500K bright white light, doubling visibility over halogen bulbs.",
+      "thumbnail": "https://picsum.photos/seed/autopart59/500/500",
+      "images": [
+        "https://picsum.photos/seed/autopart59/500/500"
+      ],
+      "colors": [
+        "6500K White"
+      ],
+      "sizes": [],
+      "material": "Aluminum, LED",
+      "weightGrams": 180,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 0,
+      "returnPolicyDays": 14,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": true,
+      "isOnSale": true,
+      "rating": 4.0,
+      "reviewCount": 2,
+      "reviewIds": [
+        22,
+        51
+      ],
+      "tags": [
+        "auto",
+        "car",
+        "vehicle"
+      ],
+      "createdAt": "2026-05-31T15:07:56Z",
+      "updatedAt": "2026-07-09T00:00:00Z"
+    },
+    {
+      "id": 60,
+      "name": "TrunkOrganize Cargo Storage Box",
+      "slug": "trunkorganize-cargo-storage-box-60",
+      "brand": "TrunkOrganize",
+      "categoryId": 9,
+      "price": 766.26,
+      "originalPrice": 1021.68,
+      "discountPercent": 25,
+      "currency": "USD",
+      "sku": "AUTO-TR-6060",
+      "stock": 452,
+      "shortDescription": "Collapsible trunk organizer with lid",
+      "description": "A foldable cargo organizer with reinforced sides, keeping groceries and gear secure and upright.",
+      "thumbnail": "https://picsum.photos/seed/autopart60/500/500",
+      "images": [
+        "https://picsum.photos/seed/autopart60/500/500"
+      ],
+      "colors": [
+        "Black",
+        "Grey"
+      ],
+      "sizes": [],
+      "material": "Oxford Fabric",
+      "weightGrams": 260,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 24,
+      "returnPolicyDays": 30,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": true,
+      "rating": 4.5,
+      "reviewCount": 3,
+      "reviewIds": [
+        19,
+        21,
+        56
+      ],
+      "tags": [
+        "auto",
+        "car",
+        "vehicle"
+      ],
+      "createdAt": "2026-01-05T01:11:00Z",
+      "updatedAt": "2026-06-11T01:11:00Z"
+    },
+    {
+      "id": 61,
+      "name": "PolishPro Car Wax Kit",
+      "slug": "polishpro-car-wax-kit-61",
+      "brand": "PolishPro",
+      "categoryId": 9,
+      "price": 593.88,
+      "originalPrice": 659.87,
+      "discountPercent": 10,
+      "currency": "USD",
+      "sku": "AUTO-PO-6061",
+      "stock": 397,
+      "shortDescription": "Premium carnauba car wax kit",
+      "description": "A complete detailing kit with carnauba wax, applicator pads, and microfiber cloths for a showroom shine.",
+      "thumbnail": "https://picsum.photos/seed/autopart61/500/500",
+      "images": [
+        "https://picsum.photos/seed/autopart61/500/500"
+      ],
+      "colors": [
+        "Standard Kit"
+      ],
+      "sizes": [],
+      "material": "Wax, Microfiber",
+      "weightGrams": 300,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 24,
+      "returnPolicyDays": 45,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": true,
+      "rating": 4.0,
+      "reviewCount": 2,
+      "reviewIds": [
+        80,
+        97
+      ],
+      "tags": [
+        "auto",
+        "car",
+        "vehicle"
+      ],
+      "createdAt": "2025-07-09T12:11:58Z",
+      "updatedAt": "2025-08-16T12:11:58Z"
+    },
+    {
+      "id": 62,
+      "name": "InkFlow Fountain Pen Set",
+      "slug": "inkflow-fountain-pen-set-62",
+      "brand": "InkFlow",
+      "categoryId": 10,
+      "price": 826.54,
+      "originalPrice": 972.4,
+      "discountPercent": 15,
+      "currency": "USD",
+      "sku": "OFFC-IN-6062",
+      "stock": 409,
+      "shortDescription": "3-piece fountain pen gift set with ink cartridges",
+      "description": "An elegant fountain pen trio finished in matte metal, complete with a variety of ink cartridges.",
+      "thumbnail": "https://picsum.photos/seed/office62/500/500",
+      "images": [
+        "https://picsum.photos/seed/office62/500/500"
+      ],
+      "colors": [
+        "Black",
+        "Blue",
+        "Rose Gold"
+      ],
+      "sizes": [],
+      "material": "Metal Alloy",
+      "weightGrams": 200,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 18,
+      "returnPolicyDays": 45,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": true,
+      "rating": 4.5,
+      "reviewCount": 2,
+      "reviewIds": [
+        35,
+        63
+      ],
+      "tags": [
+        "office",
+        "stationery",
+        "productivity"
+      ],
+      "createdAt": "2026-03-09T22:47:49Z",
+      "updatedAt": "2026-05-12T22:47:49Z"
+    },
+    {
+      "id": 63,
+      "name": "DeskZen Bamboo Organizer",
+      "slug": "deskzen-bamboo-organizer-63",
+      "brand": "DeskZen",
+      "categoryId": 10,
+      "price": 735.35,
+      "originalPrice": 735.35,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "OFFC-DE-6063",
+      "stock": 217,
+      "shortDescription": "Multi-compartment bamboo desk organizer",
+      "description": "A sustainable bamboo organizer with compartments for pens, notes, and small office supplies.",
+      "thumbnail": "https://picsum.photos/seed/office63/500/500",
+      "images": [
+        "https://picsum.photos/seed/office63/500/500"
+      ],
+      "colors": [
+        "Natural Bamboo"
+      ],
+      "sizes": [],
+      "material": "Bamboo",
+      "weightGrams": 180,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 0,
+      "returnPolicyDays": 30,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 3.8,
+      "reviewCount": 3,
+      "reviewIds": [
+        28,
+        37,
+        52
+      ],
+      "tags": [
+        "office",
+        "stationery",
+        "productivity"
+      ],
+      "createdAt": "2025-12-10T18:09:59Z",
+      "updatedAt": "2026-05-16T18:09:59Z"
+    },
+    {
+      "id": 64,
+      "name": "NotePress Recycled Notebook Set",
+      "slug": "notepress-recycled-notebook-set-64",
+      "brand": "NotePress",
+      "categoryId": 10,
+      "price": 256.8,
+      "originalPrice": 256.8,
+      "discountPercent": 0,
+      "currency": "USD",
+      "sku": "OFFC-NO-6064",
+      "stock": 247,
+      "shortDescription": "Set of 3 recycled paper notebooks",
+      "description": "Eco-conscious notebooks made from 100% recycled paper, featuring dot-grid pages and elastic closures.",
+      "thumbnail": "https://picsum.photos/seed/office64/500/500",
+      "images": [
+        "https://picsum.photos/seed/office64/500/500"
+      ],
+      "colors": [
+        "Kraft",
+        "Charcoal",
+        "Navy"
+      ],
+      "sizes": [],
+      "material": "Recycled Paper",
+      "weightGrams": 350,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 0,
+      "returnPolicyDays": 30,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": false,
+      "rating": 4.5,
+      "reviewCount": 1,
+      "reviewIds": [
+        101
+      ],
+      "tags": [
+        "office",
+        "stationery",
+        "productivity"
+      ],
+      "createdAt": "2025-07-12T00:52:57Z",
+      "updatedAt": "2025-12-23T00:52:57Z"
+    },
+    {
+      "id": 65,
+      "name": "ErgoLift Adjustable Laptop Stand",
+      "slug": "ergolift-adjustable-laptop-stand-65",
+      "brand": "ErgoLift",
+      "categoryId": 10,
+      "price": 804.78,
+      "originalPrice": 946.8,
+      "discountPercent": 15,
+      "currency": "USD",
+      "sku": "OFFC-ER-6065",
+      "stock": 117,
+      "shortDescription": "Portable aluminum laptop stand",
+      "description": "An adjustable, foldable aluminum stand that elevates your laptop to reduce neck strain during long work sessions.",
+      "thumbnail": "https://picsum.photos/seed/office65/500/500",
+      "images": [
+        "https://picsum.photos/seed/office65/500/500"
+      ],
+      "colors": [
+        "Silver",
+        "Space Gray"
+      ],
+      "sizes": [],
+      "material": "Aluminum",
+      "weightGrams": 240,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 0,
+      "returnPolicyDays": 14,
+      "freeShipping": true,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": true,
+      "rating": 4.5,
+      "reviewCount": 1,
+      "reviewIds": [
+        89
+      ],
+      "tags": [
+        "office",
+        "stationery",
+        "productivity"
+      ],
+      "createdAt": "2025-09-18T20:39:06Z",
+      "updatedAt": "2025-12-09T20:39:06Z"
+    },
+    {
+      "id": 66,
+      "name": "ClipTrack Wireless Presenter",
+      "slug": "cliptrack-wireless-presenter-66",
+      "brand": "ClipTrack",
+      "categoryId": 10,
+      "price": 424.66,
+      "originalPrice": 566.21,
+      "discountPercent": 25,
+      "currency": "USD",
+      "sku": "OFFC-CL-6066",
+      "stock": 198,
+      "shortDescription": "Wireless presentation clicker with laser pointer",
+      "description": "A reliable wireless presenter clicker with a red laser pointer and a 30-meter operating range.",
+      "thumbnail": "https://picsum.photos/seed/office66/500/500",
+      "images": [
+        "https://picsum.photos/seed/office66/500/500"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "sizes": [],
+      "material": "ABS Plastic",
+      "weightGrams": 190,
+      "dimensions": {
+        "length": 0,
+        "width": 0,
+        "height": 0,
+        "unit": "cm"
+      },
+      "warrantyMonths": 24,
+      "returnPolicyDays": 14,
+      "freeShipping": false,
+      "isFeatured": false,
+      "isNew": false,
+      "isOnSale": true,
+      "rating": 5.0,
+      "reviewCount": 1,
+      "reviewIds": [
+        53
+      ],
+      "tags": [
+        "office",
+        "stationery",
+        "productivity"
+      ],
+      "createdAt": "2025-09-15T00:04:34Z",
+      "updatedAt": "2026-02-01T00:04:34Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "productId": 1,
+      "userId": 101,
+      "userName": "Aditi R.",
+      "rating": 5,
+      "title": "Best purchase this year",
+      "comment": "The noise cancellation is incredible for the price. Comfortable for long flights.",
+      "date": "2026-03-01T10:00:00Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 12
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "userId": 102,
+      "userName": "Marcus T.",
+      "rating": 4,
+      "title": "Great sound, bulky case",
+      "comment": "Sound quality punches above its price point. Case is a bit large for travel.",
+      "date": "2026-03-15T09:30:00Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 5
+    },
+    {
+      "id": 3,
+      "productId": 1,
+      "userId": 103,
+      "userName": "Priya S.",
+      "rating": 4,
+      "title": "Solid daily driver",
+      "comment": "Battery easily lasts my whole work week with moderate use.",
+      "date": "2026-04-02T14:00:00Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 2
+    },
+    {
+      "id": 4,
+      "productId": 2,
+      "userId": 104,
+      "userName": "James K.",
+      "rating": 5,
+      "title": "Perfect for development work",
+      "comment": "Fast, silent, and the screen is gorgeous for long coding sessions.",
+      "date": "2026-05-01T11:00:00Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 8
+    },
+    {
+      "id": 5,
+      "productId": 2,
+      "userId": 105,
+      "userName": "Lena W.",
+      "rating": 4.5,
+      "title": "Great but pricey",
+      "comment": "Performance is excellent, though I wish it came with more ports.",
+      "date": "2026-05-20T15:00:00Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 3
+    },
+    {
+      "id": 6,
+      "productId": 3,
+      "userId": 106,
+      "userName": "Rohan V.",
+      "rating": 4,
+      "title": "Accurate heart rate tracking",
+      "comment": "Been using it for gym sessions daily, tracking feels reliable.",
+      "date": "2026-01-10T08:00:00Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 4
+    },
+    {
+      "id": 7,
+      "productId": 5,
+      "userId": 107,
+      "userName": "Sofia M.",
+      "rating": 5,
+      "title": "Incredible image quality",
+      "comment": "Colors straight out of camera are fantastic, barely need editing.",
+      "date": "2026-06-18T13:00:00Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 9
+    },
+    {
+      "id": 8,
+      "productId": 6,
+      "userId": 108,
+      "userName": "Derek P.",
+      "rating": 4,
+      "title": "Good for cold mornings",
+      "comment": "Keeps wind out well, packs down small in my running vest.",
+      "date": "2025-11-05T07:00:00Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 1
+    },
+    {
+      "id": 9,
+      "productId": 6,
+      "userId": 109,
+      "userName": "Ananya G.",
+      "rating": 4.5,
+      "title": "Great fit",
+      "comment": "True to size and the reflective strips are genuinely visible at night.",
+      "date": "2025-12-01T18:00:00Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 2
+    },
+    {
+      "id": 10,
+      "productId": 7,
+      "userId": 110,
+      "userName": "Chris B.",
+      "rating": 4,
+      "title": "Comfortable all day",
+      "comment": "Wore these on a 12-hour shift, no complaints about my feet.",
+      "date": "2025-09-10T10:00:00Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 3
+    },
+    {
+      "id": 11,
+      "productId": 10,
+      "userId": 111,
+      "userName": "Fatima N.",
+      "rating": 5,
+      "title": "Neck pain gone",
+      "comment": "Genuinely helped with my morning stiffness within a week of use.",
+      "date": "2025-10-05T09:00:00Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 6
+    },
+    {
+      "id": 12,
+      "productId": 11,
+      "userId": 112,
+      "userName": "Owen L.",
+      "rating": 5,
+      "title": "Caf\u00e9-quality at home",
+      "comment": "The wooden collar looks great on the counter and brews evenly.",
+      "date": "2025-11-15T08:30:00Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 4
+    },
+    {
+      "id": 13,
+      "productId": 13,
+      "userId": 113,
+      "userName": "Grace H.",
+      "rating": 5,
+      "title": "Replaced my whole rack",
+      "comment": "The dial mechanism is smooth and saves so much space in my apartment.",
+      "date": "2026-01-02T07:45:00Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 10
+    },
+    {
+      "id": 14,
+      "productId": 15,
+      "userId": 114,
+      "userName": "Noah F.",
+      "rating": 5,
+      "title": "Could not put it down",
+      "comment": "Finished it in two sittings, the pacing in the final act is relentless.",
+      "date": "2026-06-25T20:00:00Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 7
+    },
+    {
+      "id": 15,
+      "productId": 29,
+      "userId": 145,
+      "userName": "Wyatt R.",
+      "rating": 4,
+      "title": "Exactly what I needed",
+      "comment": "Exactly as pictured and described on the listing.",
+      "date": "2026-01-17T05:34:22Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 0
+    },
+    {
+      "id": 16,
+      "productId": 56,
+      "userId": 106,
+      "userName": "Ava G.",
+      "rating": 4,
+      "title": "Would recommend",
+      "comment": "My whole family enjoys using this now.",
+      "date": "2026-06-22T07:50:50Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 11
+    },
+    {
+      "id": 17,
+      "productId": 4,
+      "userId": 131,
+      "userName": "Sebastian N.",
+      "rating": 4.5,
+      "title": "Better than expected",
+      "comment": "A few minor flaws but overall a good purchase.",
+      "date": "2025-11-27T11:57:57Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 10
+    },
+    {
+      "id": 18,
+      "productId": 52,
+      "userId": 123,
+      "userName": "Michael W.",
+      "rating": 5,
+      "title": "Good for the price",
+      "comment": "Does exactly what it promises, no complaints.",
+      "date": "2025-08-27T03:52:00Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 3
+    },
+    {
+      "id": 19,
+      "productId": 60,
+      "userId": 147,
+      "userName": "John S.",
+      "rating": 3.5,
+      "title": "Does the job well",
+      "comment": "Solid quality for the price, works as described.",
+      "date": "2026-02-21T05:13:41Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 5
+    },
+    {
+      "id": 20,
+      "productId": 18,
+      "userId": 113,
+      "userName": "James K.",
+      "rating": 3.5,
+      "title": "Nice find",
+      "comment": "Customer service was responsive when I had a question.",
+      "date": "2025-08-03T18:19:35Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 9
+    },
+    {
+      "id": 21,
+      "productId": 60,
+      "userId": 107,
+      "userName": "Liam T.",
+      "rating": 5,
+      "title": "Would recommend",
+      "comment": "Does exactly what it promises, no complaints.",
+      "date": "2025-06-26T16:35:36Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 9
+    },
+    {
+      "id": 22,
+      "productId": 59,
+      "userId": 101,
+      "userName": "Aditi R.",
+      "rating": 5,
+      "title": "Better than expected",
+      "comment": "Took a bit to get used to but now I love it.",
+      "date": "2025-08-02T01:32:01Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 1
+    },
+    {
+      "id": 23,
+      "productId": 39,
+      "userId": 136,
+      "userName": "Ella E.",
+      "rating": 4,
+      "title": "Nice find",
+      "comment": "Took a bit to get used to but now I love it.",
+      "date": "2026-05-11T10:45:07Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 15
+    },
+    {
+      "id": 24,
+      "productId": 54,
+      "userId": 107,
+      "userName": "Liam T.",
+      "rating": 5,
+      "title": "Great value",
+      "comment": "Great value, I've already recommended it to friends.",
+      "date": "2025-08-09T20:28:09Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 14
+    },
+    {
+      "id": 25,
+      "productId": 17,
+      "userId": 122,
+      "userName": "Harper H.",
+      "rating": 3.5,
+      "title": "Great value",
+      "comment": "Does exactly what it promises, no complaints.",
+      "date": "2026-01-07T01:31:03Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 2
+    },
+    {
+      "id": 26,
+      "productId": 45,
+      "userId": 126,
+      "userName": "Abigail T.",
+      "rating": 4,
+      "title": "Works as expected",
+      "comment": "Great value, I've already recommended it to friends.",
+      "date": "2026-05-04T21:43:06Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 4
+    },
+    {
+      "id": 27,
+      "productId": 4,
+      "userId": 110,
+      "userName": "Olivia H.",
+      "rating": 5,
+      "title": "Reliable product",
+      "comment": "Does exactly what it promises, no complaints.",
+      "date": "2025-03-08T03:53:13Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 3
+    },
+    {
+      "id": 28,
+      "productId": 63,
+      "userId": 136,
+      "userName": "Ella E.",
+      "rating": 5,
+      "title": "Pleasantly surprised",
+      "comment": "Great value, I've already recommended it to friends.",
+      "date": "2026-04-09T00:36:35Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 7
+    },
+    {
+      "id": 29,
+      "productId": 54,
+      "userId": 150,
+      "userName": "Lily H.",
+      "rating": 4.5,
+      "title": "Pleasantly surprised",
+      "comment": "Customer service was responsive when I had a question.",
+      "date": "2025-12-10T20:55:03Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 13
+    },
+    {
+      "id": 30,
+      "productId": 25,
+      "userId": 120,
+      "userName": "Amelia D.",
+      "rating": 4.5,
+      "title": "Reliable product",
+      "comment": "Exceeded my expectations, would definitely buy again.",
+      "date": "2026-04-19T12:20:37Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 3
+    },
+    {
+      "id": 31,
+      "productId": 7,
+      "userId": 149,
+      "userName": "Luke A.",
+      "rating": 3.5,
+      "title": "Exactly what I needed",
+      "comment": "Packaging was great and it arrived earlier than expected.",
+      "date": "2025-07-25T13:21:40Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 5
+    },
+    {
+      "id": 32,
+      "productId": 46,
+      "userId": 116,
+      "userName": "Mia N.",
+      "rating": 3.5,
+      "title": "Better than expected",
+      "comment": "Solid quality for the price, works as described.",
+      "date": "2025-05-02T13:58:46Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 14
+    },
+    {
+      "id": 33,
+      "productId": 11,
+      "userId": 145,
+      "userName": "Wyatt R.",
+      "rating": 4.5,
+      "title": "Good for the price",
+      "comment": "Does exactly what it promises, no complaints.",
+      "date": "2025-01-26T08:27:03Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 9
+    },
+    {
+      "id": 34,
+      "productId": 44,
+      "userId": 145,
+      "userName": "Wyatt R.",
+      "rating": 5,
+      "title": "Good for the price",
+      "comment": "Solid quality for the price, works as described.",
+      "date": "2026-06-18T21:47:01Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 8
+    },
+    {
+      "id": 35,
+      "productId": 62,
+      "userId": 151,
+      "userName": "Anthony M.",
+      "rating": 5,
+      "title": "Exactly what I needed",
+      "comment": "Great value, I've already recommended it to friends.",
+      "date": "2026-05-29T13:20:42Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 6
+    },
+    {
+      "id": 36,
+      "productId": 18,
+      "userId": 128,
+      "userName": "Emily L.",
+      "rating": 3,
+      "title": "Better than expected",
+      "comment": "Packaging was great and it arrived earlier than expected.",
+      "date": "2026-05-19T00:47:10Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 8
+    },
+    {
+      "id": 37,
+      "productId": 63,
+      "userId": 153,
+      "userName": "Isaac T.",
+      "rating": 3.5,
+      "title": "Works as expected",
+      "comment": "Exceeded my expectations, would definitely buy again.",
+      "date": "2025-05-09T21:01:29Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 9
+    },
+    {
+      "id": 38,
+      "productId": 27,
+      "userId": 129,
+      "userName": "Jackson Y.",
+      "rating": 3,
+      "title": "Good for the price",
+      "comment": "Exactly as pictured and described on the listing.",
+      "date": "2025-08-25T04:40:14Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 8
+    },
+    {
+      "id": 39,
+      "productId": 29,
+      "userId": 133,
+      "userName": "Jack B.",
+      "rating": 4.5,
+      "title": "Good for the price",
+      "comment": "Customer service was responsive when I had a question.",
+      "date": "2025-03-04T11:32:41Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 13
+    },
+    {
+      "id": 40,
+      "productId": 54,
+      "userId": 148,
+      "userName": "Aria H.",
+      "rating": 4,
+      "title": "Reliable product",
+      "comment": "Does exactly what it promises, no complaints.",
+      "date": "2025-01-21T02:09:23Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 0
+    },
+    {
+      "id": 41,
+      "productId": 9,
+      "userId": 149,
+      "userName": "Luke A.",
+      "rating": 5,
+      "title": "Solid quality",
+      "comment": "Great value, I've already recommended it to friends.",
+      "date": "2025-02-01T05:58:21Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 5
+    },
+    {
+      "id": 42,
+      "productId": 35,
+      "userId": 131,
+      "userName": "Sebastian N.",
+      "rating": 4.5,
+      "title": "Exactly what I needed",
+      "comment": "Customer service was responsive when I had a question.",
+      "date": "2025-08-05T01:12:51Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 13
+    },
+    {
+      "id": 43,
+      "productId": 28,
+      "userId": 141,
+      "userName": "Joseph M.",
+      "rating": 5,
+      "title": "Good for the price",
+      "comment": "Solid quality for the price, works as described.",
+      "date": "2026-01-01T01:37:43Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 10
+    },
+    {
+      "id": 44,
+      "productId": 41,
+      "userId": 121,
+      "userName": "Alexander G.",
+      "rating": 5,
+      "title": "Works as expected",
+      "comment": "Impressed with how quickly it arrived and performed.",
+      "date": "2025-05-05T21:59:33Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 15
+    },
+    {
+      "id": 45,
+      "productId": 24,
+      "userId": 119,
+      "userName": "Henry P.",
+      "rating": 5,
+      "title": "Pleasantly surprised",
+      "comment": "Impressed with how quickly it arrived and performed.",
+      "date": "2026-03-04T06:32:38Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 2
+    },
+    {
+      "id": 46,
+      "productId": 45,
+      "userId": 121,
+      "userName": "Alexander G.",
+      "rating": 4,
+      "title": "Does the job well",
+      "comment": "Solid quality for the price, works as described.",
+      "date": "2025-11-10T22:22:08Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 0
+    },
+    {
+      "id": 47,
+      "productId": 53,
+      "userId": 143,
+      "userName": "Carter W.",
+      "rating": 5,
+      "title": "Better than expected",
+      "comment": "Customer service was responsive when I had a question.",
+      "date": "2025-11-17T23:29:35Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 11
+    },
+    {
+      "id": 48,
+      "productId": 52,
+      "userId": 140,
+      "userName": "Grace A.",
+      "rating": 5,
+      "title": "Good for the price",
+      "comment": "Sturdy build quality that should last a long time.",
+      "date": "2025-12-10T08:14:26Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 6
+    },
+    {
+      "id": 49,
+      "productId": 22,
+      "userId": 118,
+      "userName": "Charlotte C.",
+      "rating": 4.5,
+      "title": "Happy with this purchase",
+      "comment": "A reliable addition to my daily routine.",
+      "date": "2025-08-12T17:15:08Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 15
+    },
+    {
+      "id": 50,
+      "productId": 42,
+      "userId": 108,
+      "userName": "Noah J.",
+      "rating": 3,
+      "title": "Exactly what I needed",
+      "comment": "Great value, I've already recommended it to friends.",
+      "date": "2025-07-05T20:49:40Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 9
+    },
+    {
+      "id": 51,
+      "productId": 59,
+      "userId": 136,
+      "userName": "Ella E.",
+      "rating": 3,
+      "title": "Better than expected",
+      "comment": "My whole family enjoys using this now.",
+      "date": "2025-03-14T09:32:43Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 3
+    },
+    {
+      "id": 52,
+      "productId": 63,
+      "userId": 130,
+      "userName": "Elizabeth W.",
+      "rating": 3,
+      "title": "Exactly what I needed",
+      "comment": "Impressed with how quickly it arrived and performed.",
+      "date": "2025-04-30T14:13:47Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 9
+    },
+    {
+      "id": 53,
+      "productId": 66,
+      "userId": 133,
+      "userName": "Jack B.",
+      "rating": 5,
+      "title": "Solid quality",
+      "comment": "My whole family enjoys using this now.",
+      "date": "2026-01-10T18:26:38Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 7
+    },
+    {
+      "id": 54,
+      "productId": 29,
+      "userId": 130,
+      "userName": "Elizabeth W.",
+      "rating": 4.5,
+      "title": "Happy with this purchase",
+      "comment": "My whole family enjoys using this now.",
+      "date": "2025-05-29T01:14:05Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 4
+    },
+    {
+      "id": 55,
+      "productId": 51,
+      "userId": 105,
+      "userName": "Lena W.",
+      "rating": 4,
+      "title": "Pleasantly surprised",
+      "comment": "A few minor flaws but overall a good purchase.",
+      "date": "2026-01-30T08:54:58Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 0
+    },
+    {
+      "id": 56,
+      "productId": 60,
+      "userId": 119,
+      "userName": "Henry P.",
+      "rating": 5,
+      "title": "Solid quality",
+      "comment": "Impressed with how quickly it arrived and performed.",
+      "date": "2026-04-01T21:18:43Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 15
+    },
+    {
+      "id": 57,
+      "productId": 34,
+      "userId": 110,
+      "userName": "Olivia H.",
+      "rating": 4,
+      "title": "Better than expected",
+      "comment": "Customer service was responsive when I had a question.",
+      "date": "2025-09-26T01:34:35Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 12
+    },
+    {
+      "id": 58,
+      "productId": 7,
+      "userId": 130,
+      "userName": "Elizabeth W.",
+      "rating": 4,
+      "title": "Would recommend",
+      "comment": "Exactly as pictured and described on the listing.",
+      "date": "2025-07-05T11:39:28Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 7
+    },
+    {
+      "id": 59,
+      "productId": 50,
+      "userId": 155,
+      "userName": "Gabriel R.",
+      "rating": 5,
+      "title": "Pleasantly surprised",
+      "comment": "Exceeded my expectations, would definitely buy again.",
+      "date": "2025-09-05T03:14:11Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 12
+    },
+    {
+      "id": 60,
+      "productId": 28,
+      "userId": 125,
+      "userName": "Daniel M.",
+      "rating": 5,
+      "title": "Exactly what I needed",
+      "comment": "Took a bit to get used to but now I love it.",
+      "date": "2026-01-20T17:35:42Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 4
+    },
+    {
+      "id": 61,
+      "productId": 50,
+      "userId": 133,
+      "userName": "Jack B.",
+      "rating": 4.5,
+      "title": "Does the job well",
+      "comment": "Impressed with how quickly it arrived and performed.",
+      "date": "2025-03-19T22:55:54Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 14
+    },
+    {
+      "id": 62,
+      "productId": 51,
+      "userId": 107,
+      "userName": "Liam T.",
+      "rating": 4.5,
+      "title": "Good for the price",
+      "comment": "Exceeded my expectations, would definitely buy again.",
+      "date": "2025-04-22T23:15:06Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 4
+    },
+    {
+      "id": 63,
+      "productId": 62,
+      "userId": 105,
+      "userName": "Lena W.",
+      "rating": 4,
+      "title": "Solid quality",
+      "comment": "A few minor flaws but overall a good purchase.",
+      "date": "2026-04-30T02:23:50Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 2
+    },
+    {
+      "id": 64,
+      "productId": 46,
+      "userId": 155,
+      "userName": "Gabriel R.",
+      "rating": 4,
+      "title": "Exactly what I needed",
+      "comment": "Impressed with how quickly it arrived and performed.",
+      "date": "2026-02-19T11:26:27Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 10
+    },
+    {
+      "id": 65,
+      "productId": 57,
+      "userId": 141,
+      "userName": "Joseph M.",
+      "rating": 5,
+      "title": "Good for the price",
+      "comment": "Impressed with how quickly it arrived and performed.",
+      "date": "2026-02-25T05:16:10Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 2
+    },
+    {
+      "id": 66,
+      "productId": 40,
+      "userId": 116,
+      "userName": "Mia N.",
+      "rating": 5,
+      "title": "Exactly what I needed",
+      "comment": "A reliable addition to my daily routine.",
+      "date": "2025-08-12T05:07:58Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 2
+    },
+    {
+      "id": 67,
+      "productId": 33,
+      "userId": 128,
+      "userName": "Emily L.",
+      "rating": 3,
+      "title": "Exactly what I needed",
+      "comment": "Exactly as pictured and described on the listing.",
+      "date": "2025-03-20T01:35:26Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 9
+    },
+    {
+      "id": 68,
+      "productId": 23,
+      "userId": 102,
+      "userName": "Marcus T.",
+      "rating": 3,
+      "title": "Does the job well",
+      "comment": "Works well but instructions could be clearer.",
+      "date": "2025-02-13T14:08:17Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 11
+    },
+    {
+      "id": 69,
+      "productId": 4,
+      "userId": 128,
+      "userName": "Emily L.",
+      "rating": 3.5,
+      "title": "Would recommend",
+      "comment": "Better than similar products I've tried before.",
+      "date": "2025-11-17T01:12:04Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 5
+    },
+    {
+      "id": 70,
+      "productId": 1,
+      "userId": 111,
+      "userName": "William R.",
+      "rating": 3.5,
+      "title": "Works as expected",
+      "comment": "Great value, I've already recommended it to friends.",
+      "date": "2025-10-25T03:08:33Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 7
+    },
+    {
+      "id": 71,
+      "productId": 43,
+      "userId": 132,
+      "userName": "Sofia G.",
+      "rating": 4.5,
+      "title": "Happy with this purchase",
+      "comment": "Packaging was great and it arrived earlier than expected.",
+      "date": "2025-12-25T04:27:26Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 14
+    },
+    {
+      "id": 72,
+      "productId": 50,
+      "userId": 117,
+      "userName": "Lucas R.",
+      "rating": 5,
+      "title": "Great value",
+      "comment": "A reliable addition to my daily routine.",
+      "date": "2025-12-28T08:56:57Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 5
+    },
+    {
+      "id": 73,
+      "productId": 17,
+      "userId": 105,
+      "userName": "Lena W.",
+      "rating": 4,
+      "title": "Does the job well",
+      "comment": "Great value, I've already recommended it to friends.",
+      "date": "2025-08-21T08:38:21Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 13
+    },
+    {
+      "id": 74,
+      "productId": 3,
+      "userId": 145,
+      "userName": "Wyatt R.",
+      "rating": 4,
+      "title": "Good for the price",
+      "comment": "Impressed with how quickly it arrived and performed.",
+      "date": "2025-08-23T15:57:22Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 12
+    },
+    {
+      "id": 75,
+      "productId": 58,
+      "userId": 155,
+      "userName": "Gabriel R.",
+      "rating": 4,
+      "title": "Works as expected",
+      "comment": "Packaging was great and it arrived earlier than expected.",
+      "date": "2025-10-24T05:08:44Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 9
+    },
+    {
+      "id": 76,
+      "productId": 36,
+      "userId": 145,
+      "userName": "Wyatt R.",
+      "rating": 4,
+      "title": "Great value",
+      "comment": "Impressed with how quickly it arrived and performed.",
+      "date": "2026-05-27T06:17:35Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 0
+    },
+    {
+      "id": 77,
+      "productId": 21,
+      "userId": 137,
+      "userName": "Samuel P.",
+      "rating": 5,
+      "title": "Exactly what I needed",
+      "comment": "Works well but instructions could be clearer.",
+      "date": "2025-02-08T02:15:03Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 15
+    },
+    {
+      "id": 78,
+      "productId": 49,
+      "userId": 154,
+      "userName": "Zoey N.",
+      "rating": 4,
+      "title": "Would recommend",
+      "comment": "Great value, I've already recommended it to friends.",
+      "date": "2025-10-01T15:44:19Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 6
+    },
+    {
+      "id": 79,
+      "productId": 39,
+      "userId": 140,
+      "userName": "Grace A.",
+      "rating": 4,
+      "title": "Exactly what I needed",
+      "comment": "Works well but instructions could be clearer.",
+      "date": "2026-05-28T00:02:04Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 4
+    },
+    {
+      "id": 80,
+      "productId": 61,
+      "userId": 141,
+      "userName": "Joseph M.",
+      "rating": 3,
+      "title": "Exactly what I needed",
+      "comment": "Sturdy build quality that should last a long time.",
+      "date": "2025-01-31T14:53:24Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 14
+    },
+    {
+      "id": 81,
+      "productId": 22,
+      "userId": 103,
+      "userName": "Priya S.",
+      "rating": 4.5,
+      "title": "Does the job well",
+      "comment": "Exactly as pictured and described on the listing.",
+      "date": "2025-04-13T01:41:37Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 9
+    },
+    {
+      "id": 82,
+      "productId": 32,
+      "userId": 121,
+      "userName": "Alexander G.",
+      "rating": 5,
+      "title": "Pleasantly surprised",
+      "comment": "Took a bit to get used to but now I love it.",
+      "date": "2025-06-05T23:05:10Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 11
+    },
+    {
+      "id": 83,
+      "productId": 55,
+      "userId": 134,
+      "userName": "Avery C.",
+      "rating": 4.5,
+      "title": "Solid quality",
+      "comment": "Impressed with how quickly it arrived and performed.",
+      "date": "2025-05-08T19:19:49Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 15
+    },
+    {
+      "id": 84,
+      "productId": 6,
+      "userId": 152,
+      "userName": "Aubrey G.",
+      "rating": 4,
+      "title": "Nice find",
+      "comment": "Impressed with how quickly it arrived and performed.",
+      "date": "2025-09-21T02:06:35Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 14
+    },
+    {
+      "id": 85,
+      "productId": 48,
+      "userId": 105,
+      "userName": "Lena W.",
+      "rating": 3.5,
+      "title": "Would recommend",
+      "comment": "Impressed with how quickly it arrived and performed.",
+      "date": "2026-06-10T07:35:16Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 12
+    },
+    {
+      "id": 86,
+      "productId": 26,
+      "userId": 155,
+      "userName": "Gabriel R.",
+      "rating": 5,
+      "title": "Better than expected",
+      "comment": "A few minor flaws but overall a good purchase.",
+      "date": "2025-03-12T03:22:03Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 0
+    },
+    {
+      "id": 87,
+      "productId": 32,
+      "userId": 117,
+      "userName": "Lucas R.",
+      "rating": 4.5,
+      "title": "Works as expected",
+      "comment": "Customer service was responsive when I had a question.",
+      "date": "2025-10-14T06:56:04Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 8
+    },
+    {
+      "id": 88,
+      "productId": 49,
+      "userId": 138,
+      "userName": "Scarlett M.",
+      "rating": 4,
+      "title": "Exactly what I needed",
+      "comment": "A few minor flaws but overall a good purchase.",
+      "date": "2025-03-26T03:43:03Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 15
+    },
+    {
+      "id": 89,
+      "productId": 65,
+      "userId": 102,
+      "userName": "Marcus T.",
+      "rating": 4.5,
+      "title": "Better than expected",
+      "comment": "A few minor flaws but overall a good purchase.",
+      "date": "2026-04-19T20:45:23Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 2
+    },
+    {
+      "id": 90,
+      "productId": 11,
+      "userId": 141,
+      "userName": "Joseph M.",
+      "rating": 5,
+      "title": "Good for the price",
+      "comment": "A reliable addition to my daily routine.",
+      "date": "2026-06-29T13:01:32Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 13
+    },
+    {
+      "id": 91,
+      "productId": 49,
+      "userId": 108,
+      "userName": "Noah J.",
+      "rating": 3.5,
+      "title": "Great value",
+      "comment": "Exceeded my expectations, would definitely buy again.",
+      "date": "2025-08-25T09:46:01Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 3
+    },
+    {
+      "id": 92,
+      "productId": 20,
+      "userId": 107,
+      "userName": "Liam T.",
+      "rating": 3.5,
+      "title": "Better than expected",
+      "comment": "Took a bit to get used to but now I love it.",
+      "date": "2025-10-29T20:53:00Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 13
+    },
+    {
+      "id": 93,
+      "productId": 55,
+      "userId": 138,
+      "userName": "Scarlett M.",
+      "rating": 5,
+      "title": "Nice find",
+      "comment": "Took a bit to get used to but now I love it.",
+      "date": "2025-11-19T06:00:29Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 15
+    },
+    {
+      "id": 94,
+      "productId": 30,
+      "userId": 140,
+      "userName": "Grace A.",
+      "rating": 4,
+      "title": "Solid quality",
+      "comment": "Exceeded my expectations, would definitely buy again.",
+      "date": "2026-06-21T03:45:51Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 14
+    },
+    {
+      "id": 95,
+      "productId": 56,
+      "userId": 129,
+      "userName": "Jackson Y.",
+      "rating": 3.5,
+      "title": "Does the job well",
+      "comment": "Solid quality for the price, works as described.",
+      "date": "2026-06-17T14:00:23Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 11
+    },
+    {
+      "id": 96,
+      "productId": 37,
+      "userId": 104,
+      "userName": "James K.",
+      "rating": 4,
+      "title": "Solid quality",
+      "comment": "Packaging was great and it arrived earlier than expected.",
+      "date": "2025-04-05T21:13:19Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 14
+    },
+    {
+      "id": 97,
+      "productId": 61,
+      "userId": 106,
+      "userName": "Ava G.",
+      "rating": 5,
+      "title": "Would recommend",
+      "comment": "Sturdy build quality that should last a long time.",
+      "date": "2026-05-12T17:00:43Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 0
+    },
+    {
+      "id": 98,
+      "productId": 42,
+      "userId": 104,
+      "userName": "James K.",
+      "rating": 5,
+      "title": "Does the job well",
+      "comment": "Packaging was great and it arrived earlier than expected.",
+      "date": "2025-04-08T19:23:28Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 6
+    },
+    {
+      "id": 99,
+      "productId": 24,
+      "userId": 105,
+      "userName": "Lena W.",
+      "rating": 5,
+      "title": "Better than expected",
+      "comment": "Packaging was great and it arrived earlier than expected.",
+      "date": "2026-04-01T10:58:22Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 7
+    },
+    {
+      "id": 100,
+      "productId": 38,
+      "userId": 122,
+      "userName": "Harper H.",
+      "rating": 5,
+      "title": "Happy with this purchase",
+      "comment": "Works well but instructions could be clearer.",
+      "date": "2026-04-08T21:54:10Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 4
+    },
+    {
+      "id": 101,
+      "productId": 64,
+      "userId": 109,
+      "userName": "Emma P.",
+      "rating": 4.5,
+      "title": "Solid quality",
+      "comment": "Works well but instructions could be clearer.",
+      "date": "2025-05-16T12:51:43Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 0
+    },
+    {
+      "id": 102,
+      "productId": 49,
+      "userId": 109,
+      "userName": "Emma P.",
+      "rating": 3,
+      "title": "Does the job well",
+      "comment": "Works well but instructions could be clearer.",
+      "date": "2025-07-04T19:21:59Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 0
+    },
+    {
+      "id": 103,
+      "productId": 29,
+      "userId": 112,
+      "userName": "Sophia W.",
+      "rating": 4,
+      "title": "Great value",
+      "comment": "Took a bit to get used to but now I love it.",
+      "date": "2025-11-23T23:16:24Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 2
+    },
+    {
+      "id": 104,
+      "productId": 44,
+      "userId": 131,
+      "userName": "Sebastian N.",
+      "rating": 4,
+      "title": "Does the job well",
+      "comment": "Better than similar products I've tried before.",
+      "date": "2026-04-07T02:44:12Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 7
+    },
+    {
+      "id": 105,
+      "productId": 4,
+      "userId": 140,
+      "userName": "Grace A.",
+      "rating": 3,
+      "title": "Nice find",
+      "comment": "Works well but instructions could be clearer.",
+      "date": "2026-05-27T18:50:36Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 14
+    },
+    {
+      "id": 106,
+      "productId": 31,
+      "userId": 142,
+      "userName": "Chloe L.",
+      "rating": 3,
+      "title": "Great value",
+      "comment": "Customer service was responsive when I had a question.",
+      "date": "2025-11-08T22:41:17Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 3
+    },
+    {
+      "id": 107,
+      "productId": 44,
+      "userId": 132,
+      "userName": "Sofia G.",
+      "rating": 5,
+      "title": "Good for the price",
+      "comment": "Solid quality for the price, works as described.",
+      "date": "2025-03-04T18:02:37Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 4
+    },
+    {
+      "id": 108,
+      "productId": 35,
+      "userId": 105,
+      "userName": "Lena W.",
+      "rating": 3.5,
+      "title": "Solid quality",
+      "comment": "Great value, I've already recommended it to friends.",
+      "date": "2026-05-07T17:24:19Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 10
+    },
+    {
+      "id": 109,
+      "productId": 33,
+      "userId": 125,
+      "userName": "Daniel M.",
+      "rating": 4.5,
+      "title": "Better than expected",
+      "comment": "Does exactly what it promises, no complaints.",
+      "date": "2025-12-19T09:52:06Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 13
+    },
+    {
+      "id": 110,
+      "productId": 47,
+      "userId": 107,
+      "userName": "Liam T.",
+      "rating": 5,
+      "title": "Nice find",
+      "comment": "Solid quality for the price, works as described.",
+      "date": "2026-05-24T12:44:02Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 6
+    },
+    {
+      "id": 111,
+      "productId": 36,
+      "userId": 128,
+      "userName": "Emily L.",
+      "rating": 4,
+      "title": "Would recommend",
+      "comment": "My whole family enjoys using this now.",
+      "date": "2025-09-21T06:08:35Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 12
+    },
+    {
+      "id": 112,
+      "productId": 34,
+      "userId": 127,
+      "userName": "Matthew S.",
+      "rating": 5,
+      "title": "Works as expected",
+      "comment": "A few minor flaws but overall a good purchase.",
+      "date": "2025-11-28T11:27:27Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 8
+    },
+    {
+      "id": 113,
+      "productId": 19,
+      "userId": 124,
+      "userName": "Evelyn T.",
+      "rating": 3.5,
+      "title": "Exactly what I needed",
+      "comment": "A reliable addition to my daily routine.",
+      "date": "2026-01-04T08:59:39Z",
+      "verifiedPurchase": true,
+      "helpfulCount": 2
+    },
+    {
+      "id": 114,
+      "productId": 42,
+      "userId": 106,
+      "userName": "Ava G.",
+      "rating": 4,
+      "title": "Works as expected",
+      "comment": "Exactly as pictured and described on the listing.",
+      "date": "2025-10-17T10:38:27Z",
+      "verifiedPurchase": false,
+      "helpfulCount": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 101,
+      "name": "Aditi Rao",
+      "email": "aditi.rao@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=1",
+      "joinedDate": "2024-06-01"
+    },
+    {
+      "id": 102,
+      "name": "Marcus Thompson",
+      "email": "marcus.t@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=2",
+      "joinedDate": "2024-08-14"
+    },
+    {
+      "id": 103,
+      "name": "Priya Sharma",
+      "email": "priya.sharma@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=3",
+      "joinedDate": "2025-01-20"
+    },
+    {
+      "id": 104,
+      "name": "James King",
+      "email": "james.king@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=4",
+      "joinedDate": "2023-11-09"
+    },
+    {
+      "id": 105,
+      "name": "Lena Wolf",
+      "email": "lena.wolf@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=5",
+      "joinedDate": "2025-03-02"
+    },
+    {
+      "id": 106,
+      "name": "Ava Gonzalez",
+      "email": "ava.gonzalez106@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=37",
+      "joinedDate": "2026-05-12"
+    },
+    {
+      "id": 107,
+      "name": "Liam Thomas",
+      "email": "liam.thomas107@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=38",
+      "joinedDate": "2025-03-28"
+    },
+    {
+      "id": 108,
+      "name": "Noah Jackson",
+      "email": "noah.jackson108@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=39",
+      "joinedDate": "2025-01-20"
+    },
+    {
+      "id": 109,
+      "name": "Emma Perez",
+      "email": "emma.perez109@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=40",
+      "joinedDate": "2025-08-02"
+    },
+    {
+      "id": 110,
+      "name": "Olivia Harris",
+      "email": "olivia.harris110@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=41",
+      "joinedDate": "2025-07-10"
+    },
+    {
+      "id": 111,
+      "name": "William Ramirez",
+      "email": "william.ramirez111@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=42",
+      "joinedDate": "2025-06-23"
+    },
+    {
+      "id": 112,
+      "name": "Sophia Walker",
+      "email": "sophia.walker112@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=43",
+      "joinedDate": "2025-04-19"
+    },
+    {
+      "id": 113,
+      "name": "James King",
+      "email": "james.king113@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=44",
+      "joinedDate": "2025-03-21"
+    },
+    {
+      "id": 114,
+      "name": "Isabella Torres",
+      "email": "isabella.torres114@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=45",
+      "joinedDate": "2026-06-10"
+    },
+    {
+      "id": 115,
+      "name": "Benjamin Flores",
+      "email": "benjamin.flores115@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=46",
+      "joinedDate": "2026-02-28"
+    },
+    {
+      "id": 116,
+      "name": "Mia Nelson",
+      "email": "mia.nelson116@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=47",
+      "joinedDate": "2025-03-09"
+    },
+    {
+      "id": 117,
+      "name": "Lucas Rivera",
+      "email": "lucas.rivera117@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=48",
+      "joinedDate": "2026-04-04"
+    },
+    {
+      "id": 118,
+      "name": "Charlotte Carter",
+      "email": "charlotte.carter118@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=49",
+      "joinedDate": "2025-11-24"
+    },
+    {
+      "id": 119,
+      "name": "Henry Phillips",
+      "email": "henry.phillips119@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=50",
+      "joinedDate": "2025-01-25"
+    },
+    {
+      "id": 120,
+      "name": "Amelia Diaz",
+      "email": "amelia.diaz120@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=51",
+      "joinedDate": "2025-01-24"
+    },
+    {
+      "id": 121,
+      "name": "Alexander Garcia",
+      "email": "alexander.garcia121@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=52",
+      "joinedDate": "2025-03-14"
+    },
+    {
+      "id": 122,
+      "name": "Harper Hernandez",
+      "email": "harper.hernandez122@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=53",
+      "joinedDate": "2025-06-19"
+    },
+    {
+      "id": 123,
+      "name": "Michael Wilson",
+      "email": "michael.wilson123@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=54",
+      "joinedDate": "2025-06-30"
+    },
+    {
+      "id": 124,
+      "name": "Evelyn Taylor",
+      "email": "evelyn.taylor124@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=55",
+      "joinedDate": "2026-01-28"
+    },
+    {
+      "id": 125,
+      "name": "Daniel Martin",
+      "email": "daniel.martin125@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=56",
+      "joinedDate": "2026-04-13"
+    },
+    {
+      "id": 126,
+      "name": "Abigail Thompson",
+      "email": "abigail.thompson126@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=57",
+      "joinedDate": "2025-01-21"
+    },
+    {
+      "id": 127,
+      "name": "Matthew Sanchez",
+      "email": "matthew.sanchez127@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=58",
+      "joinedDate": "2026-03-12"
+    },
+    {
+      "id": 128,
+      "name": "Emily Lewis",
+      "email": "emily.lewis128@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=59",
+      "joinedDate": "2025-06-04"
+    },
+    {
+      "id": 129,
+      "name": "Jackson Young",
+      "email": "jackson.young129@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=60",
+      "joinedDate": "2026-05-20"
+    },
+    {
+      "id": 130,
+      "name": "Elizabeth Wright",
+      "email": "elizabeth.wright130@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=61",
+      "joinedDate": "2026-06-29"
+    },
+    {
+      "id": 131,
+      "name": "Sebastian Nguyen",
+      "email": "sebastian.nguyen131@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=62",
+      "joinedDate": "2026-02-28"
+    },
+    {
+      "id": 132,
+      "name": "Sofia Green",
+      "email": "sofia.green132@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=63",
+      "joinedDate": "2025-11-22"
+    },
+    {
+      "id": 133,
+      "name": "Jack Baker",
+      "email": "jack.baker133@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=64",
+      "joinedDate": "2025-06-21"
+    },
+    {
+      "id": 134,
+      "name": "Avery Campbell",
+      "email": "avery.campbell134@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=65",
+      "joinedDate": "2025-12-15"
+    },
+    {
+      "id": 135,
+      "name": "Owen Roberts",
+      "email": "owen.roberts135@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=66",
+      "joinedDate": "2026-04-03"
+    },
+    {
+      "id": 136,
+      "name": "Ella Evans",
+      "email": "ella.evans136@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=67",
+      "joinedDate": "2025-08-05"
+    },
+    {
+      "id": 137,
+      "name": "Samuel Patel",
+      "email": "samuel.patel137@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=68",
+      "joinedDate": "2025-01-06"
+    },
+    {
+      "id": 138,
+      "name": "Scarlett Martinez",
+      "email": "scarlett.martinez138@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=69",
+      "joinedDate": "2025-05-05"
+    },
+    {
+      "id": 139,
+      "name": "David Lopez",
+      "email": "david.lopez139@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=70",
+      "joinedDate": "2026-06-27"
+    },
+    {
+      "id": 140,
+      "name": "Grace Anderson",
+      "email": "grace.anderson140@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=1",
+      "joinedDate": "2025-11-25"
+    },
+    {
+      "id": 141,
+      "name": "Joseph Moore",
+      "email": "joseph.moore141@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=2",
+      "joinedDate": "2025-09-22"
+    },
+    {
+      "id": 142,
+      "name": "Chloe Lee",
+      "email": "chloe.lee142@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=3",
+      "joinedDate": "2025-08-04"
+    },
+    {
+      "id": 143,
+      "name": "Carter White",
+      "email": "carter.white143@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=4",
+      "joinedDate": "2025-05-01"
+    },
+    {
+      "id": 144,
+      "name": "Victoria Clark",
+      "email": "victoria.clark144@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=5",
+      "joinedDate": "2025-06-17"
+    },
+    {
+      "id": 145,
+      "name": "Wyatt Robinson",
+      "email": "wyatt.robinson145@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=6",
+      "joinedDate": "2025-09-19"
+    },
+    {
+      "id": 146,
+      "name": "Riley Allen",
+      "email": "riley.allen146@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=7",
+      "joinedDate": "2025-03-21"
+    },
+    {
+      "id": 147,
+      "name": "John Scott",
+      "email": "john.scott147@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=8",
+      "joinedDate": "2025-03-14"
+    },
+    {
+      "id": 148,
+      "name": "Aria Hill",
+      "email": "aria.hill148@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=9",
+      "joinedDate": "2025-10-23"
+    },
+    {
+      "id": 149,
+      "name": "Luke Adams",
+      "email": "luke.adams149@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=10",
+      "joinedDate": "2025-03-17"
+    },
+    {
+      "id": 150,
+      "name": "Lily Hall",
+      "email": "lily.hall150@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=11",
+      "joinedDate": "2025-10-06"
+    },
+    {
+      "id": 151,
+      "name": "Anthony Mitchell",
+      "email": "anthony.mitchell151@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=12",
+      "joinedDate": "2025-09-25"
+    },
+    {
+      "id": 152,
+      "name": "Aubrey Gomez",
+      "email": "aubrey.gomez152@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=13",
+      "joinedDate": "2026-04-14"
+    },
+    {
+      "id": 153,
+      "name": "Isaac Turner",
+      "email": "isaac.turner153@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=14",
+      "joinedDate": "2025-07-25"
+    },
+    {
+      "id": 154,
+      "name": "Zoey Nguyen",
+      "email": "zoey.nguyen154@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=15",
+      "joinedDate": "2025-02-03"
+    },
+    {
+      "id": 155,
+      "name": "Gabriel Rodriguez",
+      "email": "gabriel.rodriguez155@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=16",
+      "joinedDate": "2025-12-23"
+    }
+  ]
+}
