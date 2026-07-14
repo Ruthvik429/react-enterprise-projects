@@ -64,7 +64,7 @@ function ProductCard({ product }){
 
                     <div className="product-card__price-row">
                         <span className="produc-card__price">
-                            ${product.price.toFIxed(2)}
+                            ${product.price.toFixed(2)}
                         </span>
                         {product.isOnSale && (
                             <span className="product-card__original-price">
@@ -75,7 +75,7 @@ function ProductCard({ product }){
                 </div>
                 </Link>
 
-                <button className="product-card__ad-btn"
+                <button className="product-card__add-btn"
                 onClick={handleAddToCart}
                 aria-label={`Add ${product.name} to cart`}>
                 <ShoppingCart size={16}/>

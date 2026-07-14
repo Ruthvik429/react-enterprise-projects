@@ -1,0 +1,90 @@
+.hero {
+  background: linear-gradient(135deg, $primary 0%, darken($primary, 15%) 100%);
+  color: #fff;
+  padding: $spacer-xl * 2 0;
+
+  &__inner {
+    max-width: 640px;
+    text-align: center;
+    margin: 0 auto;
+
+    h1 {
+      font-size: 2.75rem;
+      margin-bottom: $spacer-md;
+
+      @media (max-width: 576px) {
+        font-size: 2rem;
+      }
+    }
+
+    p {
+      font-size: 1.15rem;
+      color: rgba(255, 255, 255, 0.9);
+      margin-bottom: $spacer-lg;
+    }
+  }
+
+  &__cta {
+    @include flex-center;
+    gap: 8px;
+    display: inline-flex;
+    background-color: #fff;
+    color: $primary;
+    font-weight: 700;
+    padding: 0.85rem 2rem;
+    border-radius: $border-radius;
+    transition: transform $transition-base;
+
+    &:hover {
+      transform: translateY(-2px);
+    }
+  }
+}
+
+.trust-bar {
+  background-color: #fff;
+  border-bottom: 1px solid #eee;
+  padding: $spacer-lg 0;
+
+  &__grid {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: $spacer-md;
+  }
+
+  &__item {
+    display: flex;
+    align-items: center;
+    gap: $spacer-sm;
+    color: $secondary;
+    font-size: 0.9rem;
+    font-weight: 500;
+
+    svg {
+      color: $primary;
+    }
+  }
+}
+
+.featured {
+  &__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: $spacer-lg;
+
+    h2 {
+      margin: 0;
+    }
+  }
+
+  &__view-all {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    color: $primary;
+    font-weight: 600;
+    font-size: 0.9rem;
+  }
+}

@@ -1,0 +1,119 @@
+.catalog-page{
+    &__toolbar{
+        display: flex;
+        flex-wrap: wrap;
+        gap: $spacer-md;
+        justify-content: space-between;
+        margin-bottom: $spacer-lg;
+    }
+    &__search{
+        display: flex;
+        align-items: center;
+        gap: $spacer-sm;
+        background-color: #fff;
+        border: 1px solid  #dee2e6;
+        border-radius: $border-radius;
+        padding: 0.5rem 1rem;
+        flex: 1;
+        min-width: 220px;
+        color: $secondary;
+
+        input{
+            border: none;
+            outline: none;
+            flex: 1;
+            font-size: 0.95rem;
+            color: $dark;
+
+            &::placeholder{
+                color: $secondary;
+
+            }
+        }
+    }
+    &__sort{
+        border: 1px solid #dee2e6;
+        border-radius: $border-radius;
+        padding: 0.5rem 1rem;
+        background-color: #fff;
+        font-size: 0.9rem;
+        color: $dark;
+    }
+
+    &__filters{
+        display: flex;
+        flex-wrap: wrap;
+        gap: $spacer-sm;
+        margin-bottom: $spacer-lg;
+
+        button {
+            padding: 0.4rem 1rem;
+            border-radius: 999px;
+            border: 1px solid #dee2e6;
+            background-color: #fff;
+            font-size: 0.85rem;
+            font-weight: 500;
+            color: $dark;
+            transition: all $transition-base;
+
+            &:hover{
+                border-color: $primary;
+                color: $primary;
+            }
+            &.active{
+                background-color: $primary;
+                border-color: $primary;
+                color:#fff;
+
+            }
+        }
+    }
+    &__status{
+        text-align: center;
+        padding: $spacer-xl 0;
+        color: $secondary;
+        font-size: 1.05rem;
+
+        &--error{
+            color:$danger;
+        }
+    }
+
+    &__pagination{
+        display: flex;
+        justify-content: center;
+        gap: $spacer-sm;
+        margin-top: $spacer-xl;
+
+        button{
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            border: 1px solid #dee2e6;
+            background-color: #fff;
+            font-weight: 600;
+            color: $dark;
+            transition: all $transition-base;
+
+            &:hover{
+                border-color: $primary;
+
+            }
+            &.active{
+                background-color: $primary;
+                border-color: $primary;
+                color: #fff;
+            }
+        }
+    }
+    @media(max-width:576px){
+        &__toolbar{
+            flex-direction: column;
+        }
+
+        &__search,
+        &__sort{
+            width: 100%;
+        }
+    }
+}

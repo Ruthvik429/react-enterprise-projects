@@ -1,8 +1,12 @@
-@import './abstracts/variables';
-@import './abstracts/mixins';
-@import '../../node_modules/bootstrap/scss/bootstrap.scss';
-
-@import './base/reset';
-@import './base/typography';
-
-@import '../components/layout/navbar';
+@import 'abstracts/variables';
+@import 'abstracts/mixins';
+@import '../../node_modules/bootstrap/scss/bootstrap';
+@import 'base/reset';
+@import 'base/typography';
+@import 'layouts/navbar';
+@import 'layouts/footer';
+@import 'components/product-card';
+@import 'pages/catalog';
+@import 'pages/product-detail';
+@import 'pages/home';
+@import 'pages/cart';

@@ -1,0 +1,20 @@
+# ---- Base image ----
+FROM node:23-alpine
+
+# ---- Set working directory inside the container ----
+WORKDIR /app
+
+# ---- Copy dependency manifests first (caching optimization) ----
+COPY package.json package-lock.json ./
+
+# ---- Install dependencies ----
+RUN npm install
+
+# ---- Copy the rest of the source code ----
+COPY . .
+
+# ---- Expose Vite's dev server port ----
+EXPOSE 5173
+
+# ---- Start the Vite dev server, accessible outside the container ----
+CMD ["npm", "run", "dev", "--", "--host", "0.0.0.0"]

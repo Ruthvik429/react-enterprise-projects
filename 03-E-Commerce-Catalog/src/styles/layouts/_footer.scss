@@ -1,0 +1,50 @@
+.custom-footer {
+  background-color: $dark;
+  color: rgba(255, 255, 255, 0.8);
+  padding: $spacer-xl 0 $spacer-md;
+  margin-top: $spacer-xl * 2;
+
+  &__grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: $spacer-lg;
+    padding-bottom: $spacer-lg;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+
+    @media (max-width: 768px) {
+      grid-template-columns: 1fr;
+    }
+
+    h5 {
+      color: #fff;
+      margin-bottom: $spacer-sm;
+    }
+
+    a {
+      display: block;
+      color: rgba(255, 255, 255, 0.7);
+      margin-bottom: $spacer-sm;
+      transition: color $transition-base;
+
+      &:hover {
+        color: #fff;
+      }
+    }
+  }
+
+  &__brand {
+    color: #fff;
+    margin-bottom: $spacer-sm;
+  }
+
+  &__tagline {
+    color: rgba(255, 255, 255, 0.6);
+  }
+
+  &__copyright {
+    text-align: center;
+    padding-top: $spacer-md;
+    font-size: 0.85rem;
+    color: rgba(255, 255, 255, 0.5);
+  }
+}
